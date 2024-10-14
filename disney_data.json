@@ -1,5 +1,6 @@
 [
   {
+    "URL": "/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
     "title": "Snow White and the Seven Dwarfs",
     "Directed by": [
       "Perce Pearce",
@@ -44,6 +45,7 @@
     "Box office": "$418 million"
   },
   {
+    "URL": "/wiki/Pinocchio_(1940_film)",
     "title": "Pinocchio",
     "Directed by": [
       "Ben Sharpsteen",
@@ -91,10 +93,11 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.6 million",
-    "Box office": "$164 million"
+    "Budget": "$2.6 million",
+    "Box office": "$164 million"
   },
   {
+    "URL": "/wiki/Fantasia_(1940_film)",
     "title": "Fantasia",
     "Directed by": [
       "Samuel Armstrong",
@@ -136,6 +139,7 @@
     "Box office": "$76.4–$83.3 million (United States and Canada)"
   },
   {
+    "URL": "/wiki/The_Reluctant_Dragon_(1941_film)",
     "title": "The Reluctant Dragon",
     "Directed by": [
       "Alfred Werker",
@@ -194,6 +198,7 @@
     "Box office": "$960,000 (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Dumbo",
     "title": "Dumbo",
     "Directed by": [
       "Ben Sharpsteen",
@@ -231,6 +236,7 @@
     "Box office": ">$1.3 million (est. United States/Canada rentals, 1941)"
   },
   {
+    "URL": "/wiki/Bambi",
     "title": "Bambi",
     "Directed by": [
       "James Algar",
@@ -272,6 +278,7 @@
     "Box office": "$267.4 million"
   },
   {
+    "URL": "/wiki/Saludos_Amigos",
     "title": "Saludos Amigos",
     "Directed by": [
       "Norm Ferguson",
@@ -320,6 +327,7 @@
     "Box office": "$1 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Victory_Through_Air_Power_(film)",
     "title": "Victory Through Air Power",
     "Directed by": [
       "Animated sequences:",
@@ -363,6 +371,7 @@
     "Box office": "$799,000"
   },
   {
+    "URL": "/wiki/The_Three_Caballeros",
     "title": "The Three Caballeros",
     "Directed by": [
       "Norman Ferguson",
@@ -420,6 +429,7 @@
     "Box office": "$3.355 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Make_Mine_Music",
     "title": "Make Mine Music",
     "Directed by": [
       "Jack Kinney",
@@ -496,6 +506,7 @@
     "Box office": "$3.275 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Song_of_the_South",
     "title": "Song of the South",
     "Directed by": [
       "Live action:",
@@ -551,6 +562,7 @@
     "Box office": "$65 million"
   },
   {
+    "URL": "/wiki/Fun_and_Fancy_Free",
     "title": "Fun and Fancy Free",
     "Directed by": [
       "Jack Kinney (animation)",
@@ -596,6 +608,7 @@
     "Box office": "$3.165 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Melody_Time",
     "title": "Melody Time",
     "Directed by": [
       "Clyde Geronimi",
@@ -659,6 +672,7 @@
     "Box office": "$2.56 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/So_Dear_to_My_Heart",
     "title": "So Dear to My Heart",
     "Directed by": [
       "Harold D. Schuster",
@@ -701,6 +715,7 @@
     "Box office": "$3.7 million (U.S. rental) + $575,000 (foreign rental)"
   },
   {
+    "URL": "/wiki/The_Adventures_of_Ichabod_and_Mr._Toad",
     "title": "The Adventures of Ichabod and Mr. Toad",
     "Directed by": [
       "Ben Sharpsteen",
@@ -753,6 +768,7 @@
     "Box office": "$1.625 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Cinderella_(1950_film)",
     "title": "Cinderella",
     "Directed by": [
       "Wilfred Jackson",
@@ -806,6 +822,7 @@
     "Box office": "$182 million"
   },
   {
+    "URL": "/wiki/Treasure_Island_(1950_film)",
     "title": "Treasure Island",
     "Directed by": "Byron Haskin",
     "Written by": "Lawrence Edward Watkin",
@@ -844,6 +861,7 @@
     "Box office": "$4.1 million (worldwide rentals)"
   },
   {
+    "URL": "/wiki/Alice_in_Wonderland_(1951_film)",
     "title": "Alice in Wonderland",
     "Directed by": [
       "Ben Sharpsteen",
@@ -900,6 +918,7 @@
     ]
   },
   {
+    "URL": "/wiki/The_Story_of_Robin_Hood_(film)",
     "title": "The Story of Robin Hood and his Merrie Men",
     "Directed by": "Ken Annakin",
     "Written by": "Lawrence Edward Watkin",
@@ -930,6 +949,7 @@
     "Box office": "$2.1 million (US rentals)"
   },
   {
+    "URL": "/wiki/Peter_Pan_(1953_film)",
     "title": "Peter Pan",
     "Directed by": [
       "Hamilton Luske",
@@ -979,6 +999,7 @@
     "Box office": "$87.4 million (United States and Canada)"
   },
   {
+    "URL": "/wiki/The_Sword_and_the_Rose",
     "title": "The Sword and the Rose",
     "Directed by": "Ken Annakin",
     "Screenplay by": "Lawrence Edward Watkin",
@@ -1031,6 +1052,7 @@
     "Box office": "$1 million dollars (USA)"
   },
   {
+    "URL": "/wiki/The_Living_Desert",
     "title": "The Living Desert",
     "Directed by": "James Algar",
     "Written by": [
@@ -1060,6 +1082,7 @@
     "Box office": "$2.6 million (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/Rob_Roy:_The_Highland_Rogue",
     "title": "Rob Roy: The Highland Rogue",
     "Directed by": "Harold French",
     "Written by": "Lawrence Edward Watkin",
@@ -1094,6 +1117,7 @@
     "Box office": "$1,050,000"
   },
   {
+    "URL": "/wiki/The_Vanishing_Prairie",
     "title": "The Vanishing Prairie",
     "Directed by": "James Algar",
     "Written by": [
@@ -1122,6 +1146,7 @@
     "Box office": "$1.75 million (US and Canadian rentals)"
   },
   {
+    "URL": "/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",
     "title": "20,000 Leagues Under the Sea",
     "Directed by": "Richard Fleischer",
     "Screenplay by": "Earl Felton",
@@ -1152,6 +1177,7 @@
     "Box office": "$28.2 million"
   },
   {
+    "URL": "/wiki/Davy_Crockett:_King_of_the_Wild_Frontier_(film)",
     "title": "Davy Crockett: King of the Wild Frontier",
     "Directed by": "Norman Foster",
     "Written by": "Tom Blackburn",
@@ -1179,6 +1205,7 @@
     "Box office": "$2,150,000 (US)"
   },
   {
+    "URL": "/wiki/Lady_and_the_Tramp",
     "title": "Lady and the Tramp",
     "Directed by": [
       "Hamilton Luske",
@@ -1225,6 +1252,7 @@
     "Box office": "$187 million"
   },
   {
+    "URL": "/wiki/The_African_Lion",
     "title": "The African Lion",
     "Directed by": "James Algar",
     "Written by": [
@@ -1253,6 +1281,7 @@
     "Box office": "$2.1 million (US)"
   },
   {
+    "URL": "/wiki/The_Littlest_Outlaw",
     "title": "The Littlest Outlaw",
     "Directed by": "Roberto Gavaldón",
     "Starring": [
@@ -1280,6 +1309,7 @@
     "Box office": "$1.6 million (US)"
   },
   {
+    "URL": "/wiki/The_Great_Locomotive_Chase",
     "title": "The Great Locomotive Chase",
     "Directed by": "Francis D. Lyon",
     "Written by": "Lawrence Edward Watkin",
@@ -1308,6 +1338,7 @@
     "Box office": "$1.7 million (US)"
   },
   {
+    "URL": "/wiki/Davy_Crockett_and_the_River_Pirates",
     "title": "Davy Crockett and the River Pirates",
     "Directed by": "Norman Foster",
     "Written by": [
@@ -1338,6 +1369,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Secrets_of_Life",
     "title": "Secrets of Life",
     "Directed by": "James Algar",
     "Written by": "James Algar",
@@ -1373,6 +1405,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Westward_Ho_the_Wagons!",
     "title": "Westward Ho the Wagons!",
     "Directed by": "William Beaudine",
     "Screenplay by": "Tom Blackburn",
@@ -1400,6 +1433,7 @@
     "Box office": "$2.75 million (US)"
   },
   {
+    "URL": "/wiki/Johnny_Tremain_(film)",
     "title": "Johnny Tremain",
     "Directed by": "Robert Stevenson",
     "Written by": [
@@ -1431,6 +1465,7 @@
     "Budget": "$700,000"
   },
   {
+    "URL": "/wiki/Perri_(film)",
     "title": "Perri",
     "Directed by": [
       "N. Paul Kenworthy",
@@ -1474,6 +1509,7 @@
     "Box office": "$1.75 million (US rentals)"
   },
   {
+    "URL": "/wiki/Old_Yeller_(film)",
     "title": "Old Yeller",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -1513,6 +1549,7 @@
     "Box office": "$6.25 million (U.S./Canada rentals)"
   },
   {
+    "URL": "/wiki/The_Light_in_the_Forest_(film)",
     "title": "The Light in the Forest",
     "Directed by": "Herschel Daugherty",
     "Written by": "Lawrence Edward Watkin",
@@ -1541,6 +1578,7 @@
     "Box office": "$2 million"
   },
   {
+    "URL": "/wiki/White_Wilderness_(film)",
     "title": "White Wilderness",
     "Directed by": "James Algar",
     "Written by": "James Algar",
@@ -1562,6 +1600,7 @@
     "Box office": "$1.8 million (est. US/Canada rentals)"
   },
   {
+    "URL": "/wiki/Tonka_(film)",
     "title": "Tonka",
     "Directed by": "Lewis R. Foster",
     "Written by": [
@@ -1595,6 +1634,7 @@
     "Box office": "$2.5 million (est. US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/Sleeping_Beauty_(1959_film)",
     "title": "Sleeping Beauty",
     "Directed by": [
       "Clyde Geronimi",
@@ -1646,6 +1686,7 @@
     "Box office": "$51.6 million (United States and Canada)"
   },
   {
+    "URL": "/wiki/The_Shaggy_Dog_(1959_film)",
     "title": "The Shaggy Dog",
     "Directed by": "Charles Barton",
     "Screenplay by": [
@@ -1687,6 +1728,7 @@
     "Box office": "$12.3 million (US and Canada rentals)"
   },
   {
+    "URL": "/wiki/Darby_O%27Gill_and_the_Little_People",
     "title": "Darby O'Gill and the Little People",
     "Directed by": "Robert Stevenson",
     "Written by": "Lawrence Edward Watkin",
@@ -1730,6 +1772,7 @@
     ]
   },
   {
+    "URL": "/wiki/Third_Man_on_the_Mountain",
     "title": "Third Man on the Mountain",
     "Directed by": "Ken Annakin",
     "Written by": "Eleanore Griffin",
@@ -1763,6 +1806,7 @@
     "Box office": "$1,700,000 (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/Toby_Tyler_or_10_Weeks_with_a_Circus_(film)",
     "title": "Toby Tyler or 10 Weeks with a Circus",
     "Directed by": "Charles Barton",
     "Written by": [
@@ -1793,6 +1837,7 @@
     "Box office": "$3,100,000 (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/Kidnapped_(1960_film)",
     "title": "Kidnapped",
     "Directed by": "Robert Stevenson",
     "Written by": "Robert Stevenson",
@@ -1820,6 +1865,7 @@
     "Languages": "English, Scots"
   },
   {
+    "URL": "/wiki/Pollyanna_(1960_film)",
     "title": "Pollyanna",
     "Directed by": "David Swift",
     "Screenplay by": "David Swift",
@@ -1854,7 +1900,9 @@
     "Budget": "$2.5 million",
     "Box office": "$3.75 million (US and Canadian rentals)"
   },
+  {},
   {
+    "URL": "/wiki/Jungle_Cat_(film)",
     "title": "Jungle Cat",
     "Directed by": "James Algar",
     "Written by": "James Algar",
@@ -1882,6 +1930,7 @@
     "Box office": "$2.3 million (US and Canadian rentals)"
   },
   {
+    "URL": "/wiki/Ten_Who_Dared",
     "title": "Ten Who Dared",
     "Directed by": "William Beaudine",
     "Written by": "Lawrence Edward Watkin",
@@ -1916,6 +1965,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Swiss_Family_Robinson_(1960_film)",
     "title": "Swiss Family Robinson",
     "Directed by": "Ken Annakin",
     "Written by": "Lowell S. Hawley",
@@ -1957,6 +2007,7 @@
     "Box office": "$40 million"
   },
   {
+    "URL": "/wiki/One_Hundred_and_One_Dalmatians",
     "title": "One Hundred and One Dalmatians",
     "Directed by": [
       "Wolfgang Reitherman",
@@ -2022,6 +2073,7 @@
     "Box office": "$303 million"
   },
   {
+    "URL": "/wiki/The_Absent-Minded_Professor",
     "title": "The Absent-Minded Professor",
     "Directed by": "Robert Stevenson",
     "Screenplay by": "Bill Walsh",
@@ -2061,6 +2113,7 @@
     "Box office": "$25.3 million"
   },
   {
+    "URL": "/wiki/The_Parent_Trap_(1961_film)",
     "title": "The Parent Trap",
     "Directed by": "David Swift",
     "Written by": "David Swift",
@@ -2097,6 +2150,7 @@
     "Box office": "$25.1 million"
   },
   {
+    "URL": "/wiki/Nikki:_Wild_Dog_of_the_North",
     "title": "Nikki: Wild Dog of the North",
     "Directed by": [
       "Jack Couffer",
@@ -2145,6 +2199,7 @@
     "Box office": "$2.1 million"
   },
   {
+    "URL": "/wiki/Greyfriars_Bobby_(film)",
     "title": "Greyfriars Bobby",
     "Directed by": "Don Chaffey",
     "Written by": "Robert Westerby",
@@ -2177,6 +2232,7 @@
     "Box office": "$1.4 million"
   },
   {
+    "URL": "/wiki/Babes_in_Toyland_(1961_film)",
     "title": "Babes in Toyland",
     "Directed by": "Jack Donohue",
     "Screenplay by": [
@@ -2221,6 +2277,7 @@
     "Box office": "$4.6 million (U.S./Canada rentals)"
   },
   {
+    "URL": "/wiki/Moon_Pilot",
     "title": "Moon Pilot",
     "Directed by": "James Neilson",
     "Written by": "Maurice Tombragel",
@@ -2255,6 +2312,7 @@
     "Box office": "$3.5 million (US/Canada)"
   },
   {
+    "URL": "/wiki/Bon_Voyage!_(1962_film)",
     "title": "Bon Voyage!",
     "Directed by": "James Neilson",
     "Screenplay by": "Bill Walsh",
@@ -2291,6 +2349,7 @@
     "Box office": "$5 million (rentals)"
   },
   {
+    "URL": "/wiki/Big_Red_(film)",
     "title": "Big Red",
     "Directed by": "Norman Tokar",
     "Written by": [
@@ -2324,6 +2383,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Almost_Angels",
     "title": "Almost Angels",
     "Directed by": "Steve Previn",
     "Written by": [
@@ -2342,6 +2402,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Legend_of_Lobo",
     "title": "The Legend of Lobo",
     "Directed by": [
       "James Algar",
@@ -2387,6 +2448,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/In_Search_of_the_Castaways_(film)",
     "title": "In Search of the Castaways",
     "Directed by": "Robert Stevenson",
     "Screenplay by": "Lowell S. Hawley",
@@ -2428,6 +2490,7 @@
     "Box office": "$21,745,500"
   },
   {
+    "URL": "/wiki/Son_of_Flubber",
     "title": "Son of Flubber",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -2470,6 +2533,7 @@
     "Box office": "$22.1 million"
   },
   {
+    "URL": "/wiki/Miracle_of_the_White_Stallions",
     "title": "Miracle of the White Stallions",
     "Directed by": "Arthur Hiller",
     "Written by": [
@@ -2506,6 +2570,7 @@
     "Box office": "$2,550,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/Savage_Sam_(film)",
     "title": "Savage Sam",
     "Directed by": "Norman Tokar",
     "Written by": [
@@ -2545,6 +2610,7 @@
     "Box office": "$3,000,000 (U.S./Canada)"
   },
   {
+    "URL": "/wiki/Summer_Magic_(film)",
     "title": "Summer Magic",
     "Directed by": "James Neilson",
     "Written by": "Sally Benson",
@@ -2586,6 +2652,7 @@
     "Box office": "$4,350,000 (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/The_Incredible_Journey_(film)",
     "title": "The Incredible Journey",
     "Directed by": "Fletcher Markle",
     "Written by": "James Algar",
@@ -2622,6 +2689,7 @@
     "Box office": "$4.2 million (US/Canada) (rentals)"
   },
   {
+    "URL": "/wiki/The_Sword_in_the_Stone_(1963_film)",
     "title": "The Sword in the Stone",
     "Directed by": "Wolfgang Reitherman",
     "Story by": "Bill Peet",
@@ -2658,6 +2726,7 @@
     "Box office": "$22.2 million (United States and Canada)"
   },
   {
+    "URL": "/wiki/A_Tiger_Walks",
     "title": "A Tiger Walks",
     "Directed by": "Norman Tokar",
     "Written by": "Lowell S. Hawley",
@@ -2690,6 +2759,7 @@
     "Box office": "est. $1,600,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/The_Misadventures_of_Merlin_Jones",
     "title": "The Misadventures of Merlin Jones",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -2721,6 +2791,7 @@
     "Box office": "$4,000,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/The_Three_Lives_of_Thomasina",
     "title": "The Three Lives of Thomasina",
     "Directed by": "Don Chaffey",
     "Written by": "Robert Westerby",
@@ -2760,6 +2831,7 @@
     "Box office": "$2,250,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/The_Moon-Spinners",
     "title": "The Moon-Spinners",
     "Directed by": "James Neilson",
     "Screenplay by": "Michael Dyne",
@@ -2794,6 +2866,7 @@
     "Box office": "est. $3,500,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/Mary_Poppins_(film)",
     "title": "Mary Poppins",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -2834,10 +2907,11 @@
     "Running time": "139 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4.4–6 million",
-    "Box office": "$103.1 million (US/Canada)"
+    "Budget": "$4.4–6 million",
+    "Box office": "$103.1 million (US/Canada)"
   },
   {
+    "URL": "/wiki/Those_Calloways",
     "title": "Those Calloways",
     "Directed by": "Norman Tokar",
     "Screenplay by": "Louis Pelletier",
@@ -2868,6 +2942,7 @@
     "Box office": "$3,500,000 (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/Emil_and_the_Detectives_(1964_film)",
     "title": "Emil and the Detectives",
     "Directed by": "Peter Tewksbury",
     "Screenplay by": "A.J. Carothers",
@@ -2897,6 +2972,7 @@
     "Box office": "$1,275,000"
   },
   {
+    "URL": "/wiki/The_Monkey%27s_Uncle",
     "title": "The Monkey's Uncle",
     "Directed by": "Robert Stevenson",
     "Written by": [
@@ -2928,6 +3004,7 @@
     "Box office": "$4,000,000 (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/That_Darn_Cat!",
     "title": "That Darn Cat!",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -2967,6 +3044,7 @@
     "Box office": "$28,068,222"
   },
   {
+    "URL": "/wiki/The_Ugly_Dachshund",
     "title": "The Ugly Dachshund",
     "Directed by": "Norman Tokar",
     "Screenplay by": "Albert Aley",
@@ -2999,6 +3077,7 @@
     "Box office": "$6.2 million (est. US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/Lt._Robin_Crusoe,_U.S.N.",
     "title": "Lt. Robin Crusoe, U.S.N.",
     "Directed by": "Byron Paul",
     "Screenplay by": [
@@ -3035,6 +3114,7 @@
     "Box office": "$22,565,634"
   },
   {
+    "URL": "/wiki/The_Fighting_Prince_of_Donegal",
     "title": "The Fighting Prince of Donegal",
     "Directed by": "Michael O'Herlihy",
     "Written by": [
@@ -3066,6 +3146,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Follow_Me,_Boys!",
     "title": "Follow Me, Boys!",
     "Directed by": "Norman Tokar",
     "Screenplay by": "Louis Pelletier",
@@ -3107,6 +3188,7 @@
     "Box office": "$16,207,116"
   },
   {
+    "URL": "/wiki/Monkeys,_Go_Home!",
     "title": "Monkeys, Go Home!",
     "Directed by": "Andrew V. McLaglen",
     "Screenplay by": "Maurice Tombragel",
@@ -3134,6 +3216,7 @@
     "Box office": "$3,000,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/The_Adventures_of_Bullwhip_Griffin",
     "title": "The Adventures of Bullwhip Griffin",
     "Directed by": "James Neilson",
     "Screenplay by": "Lowell S. Hawley",
@@ -3167,6 +3250,7 @@
     "Box office": "$1,900,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/The_Gnome-Mobile",
     "title": "The Gnome-Mobile",
     "Directed by": "Robert Stevenson",
     "Written by": "Ellis Kadison",
@@ -3202,6 +3286,7 @@
     "Box office": "$4,000,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/The_Jungle_Book_(1967_film)",
     "title": "The Jungle Book",
     "Directed by": "Wolfgang Reitherman",
     "Story by": [
@@ -3240,6 +3325,7 @@
     "Box office": "$378 million"
   },
   {
+    "URL": "/wiki/Charlie,_the_Lonesome_Cougar",
     "title": "Charlie, the Lonesome Cougar",
     "Directed by": "Winston Hibler",
     "Written by": "Jack Speirs",
@@ -3276,6 +3362,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Happiest_Millionaire",
     "title": "The Happiest Millionaire",
     "Directed by": "Norman Tokar",
     "Screenplay by": "A. J. Carothers",
@@ -3331,6 +3418,7 @@
     "Box office": "$5 million (U.S./Canada rentals)"
   },
   {
+    "URL": "/wiki/Blackbeard%27s_Ghost",
     "title": "Blackbeard's Ghost",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -3362,6 +3450,7 @@
     "Box office": "$21,540,050"
   },
   {
+    "URL": "/wiki/The_One_and_Only,_Genuine,_Original_Family_Band",
     "title": "The One and Only, Genuine, Original Family Band",
     "Directed by": "Michael O'Herlihy",
     "Screenplay by": "Lowell S. Hawley",
@@ -3398,6 +3487,7 @@
     "Box office": "$2,250,000 (US/ Canada)"
   },
   {
+    "URL": "/wiki/Never_a_Dull_Moment_(1968_film)",
     "title": "Never a Dull Moment",
     "Directed by": "Jerry Paris",
     "Written by": "A. J. Carothers",
@@ -3422,6 +3512,7 @@
     "Box office": "$4,150,000 (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/The_Horse_in_the_Gray_Flannel_Suit",
     "title": "The Horse in the Gray Flannel Suit",
     "Directed by": "Norman Tokar",
     "Written by": [
@@ -3453,6 +3544,7 @@
     "Box office": "$3.3 million  (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/The_Love_Bug",
     "title": "The Love Bug",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -3486,6 +3578,7 @@
     "Box office": "$51.2 million"
   },
   {
+    "URL": "/wiki/Smith!",
     "title": "Smith!",
     "Directed by": "Michael O'Herlihy",
     "Screenplay by": "Louis Pelletier",
@@ -3511,6 +3604,7 @@
     "Box office": "$1.3 million (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/Rascal_(film)",
     "title": "Rascal",
     "Directed by": "Norman Tokar",
     "Written by": "Harold Swanton",
@@ -3538,6 +3632,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Computer_Wore_Tennis_Shoes",
     "title": "The Computer Wore Tennis Shoes",
     "Directed by": "Robert Butler",
     "Written by": "Joseph L. McEveety",
@@ -3563,6 +3658,7 @@
     "Box office": "$5.5 million (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/King_of_the_Grizzlies",
     "title": "King of the Grizzlies",
     "Directed by": "Ron Kelly",
     "Screenplay by": [
@@ -3599,6 +3695,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Boatniks",
     "title": "The Boatniks",
     "Directed by": "Norman Tokar",
     "Written by": "Arthur Julian",
@@ -3630,6 +3727,7 @@
     "Box office": "$18,607,492"
   },
   {
+    "URL": "/wiki/The_Wild_Country",
     "title": "The Wild Country",
     "Directed by": "Robert Totten",
     "Written by": [
@@ -3655,6 +3753,7 @@
     "Box office": "$4 million (rentals) (US/Canada)"
   },
   {
+    "URL": "/wiki/The_Aristocats",
     "title": "The Aristocats",
     "Directed by": "Wolfgang Reitherman",
     "Story by": [
@@ -3710,6 +3809,7 @@
     "Box office": "$191 million"
   },
   {
+    "URL": "/wiki/The_Barefoot_Executive",
     "title": "The Barefoot Executive",
     "Directed by": "Robert Butler",
     "Screenplay by": "Joseph L. McEveety",
@@ -3745,6 +3845,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Scandalous_John",
     "title": "Scandalous John",
     "Directed by": "Robert Butler",
     "Written by": [
@@ -3770,6 +3871,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Million_Dollar_Duck",
     "title": "The Million Dollar Duck",
     "Directed by": "Vincent McEveety",
     "Screenplay by": "Roswell Rogers",
@@ -3797,6 +3899,7 @@
     "Box office": "$5.1 million (North America) (rentals)"
   },
   {
+    "URL": "/wiki/Bedknobs_and_Broomsticks",
     "title": "Bedknobs and Broomsticks",
     "Directed by": "Robert Stevenson",
     "Screenplay by": [
@@ -3837,6 +3940,7 @@
     "Box office": "$17.9 million"
   },
   {
+    "URL": "/wiki/The_Biscuit_Eater_(1972_film)",
     "title": "The Biscuit Eater",
     "Directed by": "Vincent McEveety",
     "Screenplay by": "Lawrence Edward Watkin",
@@ -3861,6 +3965,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Now_You_See_Him,_Now_You_Don%27t",
     "title": "Now You See Him, Now You Don't",
     "Directed by": "Robert Butler",
     "Screenplay by": "Joseph L. McEveety",
@@ -3887,6 +3992,7 @@
     "Box office": "$4,610,000 (US/Canada) (rentals)"
   },
   {
+    "URL": "/wiki/Napoleon_and_Samantha",
     "title": "Napoleon and Samantha",
     "Directed by": "Bernard McEveety",
     "Written by": "Stewart Raffill",
@@ -3909,6 +4015,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Run,_Cougar,_Run",
     "title": "Run, Cougar, Run",
     "Directed by": "Jerome Courtland",
     "Screenplay by": "Louis Pelletier",
@@ -3939,6 +4046,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Snowball_Express",
     "title": "Snowball Express",
     "Directed by": "Norman Tokar",
     "Written by": [
@@ -3981,6 +4089,7 @@
     "Box office": "$6,100,000 (US/ Canada rentals)"
   },
   {
+    "URL": "/wiki/The_World%27s_Greatest_Athlete",
     "title": "The World's Greatest Athlete",
     "Directed by": "Robert Scheerer",
     "Written by": [
@@ -4008,6 +4117,7 @@
     "Box office": "$22,583,370"
   },
   {
+    "URL": "/wiki/Charley_and_the_Angel",
     "title": "Charley and the Angel",
     "Directed by": "Vincent McEveety",
     "Written by": [
@@ -4041,6 +4151,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/One_Little_Indian_(film)",
     "title": "One Little Indian",
     "Directed by": "Bernard McEveety",
     "Written by": "Harry Spalding",
@@ -4068,6 +4179,7 @@
     "Box office": "$2 million"
   },
   {
+    "URL": "/wiki/Robin_Hood_(1973_film)",
     "title": "Robin Hood",
     "Directed by": "Wolfgang Reitherman",
     "Story by": [
@@ -4108,6 +4220,7 @@
     "Box office": "$33 million"
   },
   {
+    "URL": "/wiki/Superdad",
     "title": "Superdad",
     "Directed by": "Vincent McEveety",
     "Written by": [
@@ -4136,6 +4249,7 @@
     "Box office": "$7 million (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/Herbie_Rides_Again",
     "title": "Herbie Rides Again",
     "Directed by": "Robert Stevenson",
     "Screenplay by": "Bill Walsh",
@@ -4171,6 +4285,7 @@
     ]
   },
   {
+    "URL": "/wiki/The_Bears_and_I",
     "title": "The Bears and I",
     "Directed by": "Bernard McEveety",
     "Screenplay by": "John Whedon",
@@ -4201,6 +4316,7 @@
     "Box office": "$4 million (rentals) (US/Canada)"
   },
   {
+    "URL": "/wiki/The_Castaway_Cowboy",
     "title": "The Castaway Cowboy",
     "Directed by": "Vincent McEveety",
     "Written by": "Don Tait",
@@ -4227,6 +4343,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Island_at_the_Top_of_the_World",
     "title": "The Island at the Top of the World",
     "Directed by": "Robert Stevenson",
     "Written by": [
@@ -4264,6 +4381,7 @@
     "Box office": "$10 million (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/The_Strongest_Man_in_the_World",
     "title": "The Strongest Man in the World",
     "Directed by": "Vincent McEveety",
     "Written by": [
@@ -4292,6 +4410,7 @@
     "Box office": "$6.6 million (US/Canada rentals)"
   },
   {
+    "URL": "/wiki/Escape_to_Witch_Mountain_(1975_film)",
     "title": "Escape to Witch Mountain",
     "Directed by": "John Hough",
     "Screenplay by": "Robert Malcolm Young",
@@ -4325,6 +4444,7 @@
     "Box office": "$20,000,000"
   },
   {
+    "URL": "/wiki/The_Apple_Dumpling_Gang_(film)",
     "title": "The Apple Dumpling Gang",
     "Directed by": "Norman Tokar",
     "Screenplay by": "Don Tait",
@@ -4364,6 +4484,7 @@
     "Box office": "$36,853,000"
   },
   {
+    "URL": "/wiki/One_of_Our_Dinosaurs_Is_Missing",
     "title": "One of Our Dinosaurs is Missing",
     "Directed by": "Robert Stevenson",
     "Written by": "Bill Walsh",
@@ -4392,6 +4513,7 @@
     "Box office": "$5.5 million (North American rentals)"
   },
   {
+    "URL": "/wiki/The_Best_of_Walt_Disney%27s_True-Life_Adventures",
     "title": "The Best of Walt Disney's True-Life Adventures",
     "Written by": [
       "James Algar",
@@ -4437,6 +4559,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/True-Life_Adventures",
     "title": "True-Life Adventures",
     "Starring": "Winston Hibler (narrator)",
     "Cinematography": [
@@ -4471,6 +4594,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Ride_a_Wild_Pony",
     "title": "Ride a Wild Pony",
     "Directed by": "Don Chaffey",
     "Written by": "Rosemary Anne Sisson",
@@ -4507,6 +4631,7 @@
     "Budget": "AU$1 million"
   },
   {
+    "URL": "/wiki/No_Deposit,_No_Return",
     "title": "No Deposit, No Return",
     "Directed by": "Norman Tokar",
     "Screenplay by": [
@@ -4538,6 +4663,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Treasure_of_Matecumbe",
     "title": "Treasure of Matecumbe",
     "Directed by": "Vincent McEveety",
     "Written by": "Don Tait",
@@ -4570,6 +4696,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Gus_(1976_film)",
     "title": "Gus",
     "Directed by": "Vincent McEveety",
     "Screenplay by": [
@@ -4601,6 +4728,7 @@
     "Box office": "$21,873,000"
   },
   {
+    "URL": "/wiki/The_Shaggy_D.A.",
     "title": "The Shaggy D.A.",
     "Directed by": "Robert Stevenson",
     "Written by": "Don Tait",
@@ -4633,6 +4761,7 @@
     "Box office": "$10.5 million (US and Canada rentals)"
   },
   {
+    "URL": "/wiki/Freaky_Friday_(1976_film)",
     "title": "Freaky Friday",
     "Directed by": "Gary Nelson",
     "Screenplay by": "Mary Rodgers",
@@ -4664,6 +4793,7 @@
     "Box office": "$36 million"
   },
   {
+    "URL": "/wiki/Escape_from_the_Dark",
     "title": "Escape from the Dark (The Littlest Horse Thieves)",
     "Directed by": "Charles Jarrott",
     "Written by": "Rosemary Anne Sisson",
@@ -4697,6 +4827,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Many_Adventures_of_Winnie_the_Pooh",
     "title": "The Many Adventures of",
     "Directed by": [
       "John Lounsbery",
@@ -4748,6 +4879,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Rescuers",
     "title": "The Rescuers",
     "Directed by": [
       "Wolfgang Reitherman",
@@ -4797,6 +4929,7 @@
     "Box office": "$169 million"
   },
   {
+    "URL": "/wiki/Herbie_Goes_to_Monte_Carlo",
     "title": "Herbie Goes to Monte Carlo",
     "Directed by": "Vincent McEveety",
     "Written by": [
@@ -4827,6 +4960,7 @@
     "Box office": "$28 million"
   },
   {
+    "URL": "/wiki/Pete%27s_Dragon_(1977_film)",
     "title": "Pete's Dragon",
     "Directed by": "Don Chaffey",
     "Screenplay by": "Malcolm Marmorstein",
@@ -4865,6 +4999,7 @@
     "Box office": "$36 –39.6 million"
   },
   {
+    "URL": "/wiki/Candleshoe",
     "title": "Candleshoe",
     "Directed by": "Norman Tokar",
     "Screenplay by": [
@@ -4897,6 +5032,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Return_from_Witch_Mountain",
     "title": "Return from Witch Mountain",
     "Directed by": "John Hough",
     "Written by": "Malcolm Marmorstein",
@@ -4927,6 +5063,7 @@
     "Box office": "$16.3 million (worldwide)"
   },
   {
+    "URL": "/wiki/The_Cat_from_Outer_Space",
     "title": "The Cat from Outer Space",
     "Directed by": "Norman Tokar",
     "Written by": "Ted Key",
@@ -4953,6 +5090,7 @@
     "Budget": "$3.5 to 4 million"
   },
   {
+    "URL": "/wiki/Hot_Lead_and_Cold_Feet",
     "title": "Hot Lead and Cold Feet",
     "Directed by": "Robert Butler",
     "Written by": [
@@ -4986,6 +5124,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_North_Avenue_Irregulars",
     "title": "The North Avenue Irregulars",
     "Directed by": "Bruce Bilson",
     "Written by": "Don Tait",
@@ -5018,6 +5157,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Apple_Dumpling_Gang_Rides_Again",
     "title": "The Apple Dumpling Gang Rides Again",
     "Directed by": "Vincent McEveety",
     "Written by": "Don Tait",
@@ -5051,6 +5191,7 @@
     "Box office": "$20,931,111"
   },
   {
+    "URL": "/wiki/Unidentified_Flying_Oddball",
     "title": "Unidentified Flying Oddball",
     "Directed by": "Russ Mayberry",
     "Written by": "Don Tait",
@@ -5082,6 +5223,7 @@
     "Box office": "$4.475 million (US/Canada rentals )"
   },
   {
+    "URL": "/wiki/The_Black_Hole",
     "title": "The Black Hole",
     "Directed by": "Gary Nelson",
     "Screenplay by": [
@@ -5120,6 +5262,7 @@
     ]
   },
   {
+    "URL": "/wiki/Midnight_Madness_(1980_film)",
     "title": "Midnight Madness",
     "Directed by": [
       "Michael Nankin",
@@ -5157,6 +5300,7 @@
     "Box office": "$2.9 million"
   },
   {
+    "URL": "/wiki/The_Watcher_in_the_Woods_(1980_film)",
     "title": "The Watcher in the Woods",
     "Directed by": [
       "John Hough",
@@ -5199,6 +5343,7 @@
     "Box office": "$5 million"
   },
   {
+    "URL": "/wiki/Herbie_Goes_Bananas",
     "title": "Herbie Goes Bananas",
     "Directed by": "Vincent McEveety",
     "Written by": "Don Tait",
@@ -5232,6 +5377,7 @@
     "Box office": "$18 million"
   },
   {
+    "URL": "/wiki/The_Last_Flight_of_Noah%27s_Ark",
     "title": "The Last Flight of Noah's Ark",
     "Directed by": "Charles Jarrott",
     "Written by": [
@@ -5268,6 +5414,7 @@
     "Box office": "$11 million"
   },
   {
+    "URL": "/wiki/Popeye_(film)",
     "title": "Popeye",
     "Directed by": "Robert Altman",
     "Screenplay by": "Jules Feiffer",
@@ -5308,6 +5455,7 @@
     "Box office": "$60 million"
   },
   {
+    "URL": "/wiki/The_Devil_and_Max_Devlin",
     "title": "The Devil and Max Devlin",
     "Directed by": "Steven Hilliard Stern",
     "Written by": "Mary Rodgers",
@@ -5344,6 +5492,7 @@
     "Box office": "$16 million (USA)"
   },
   {
+    "URL": "/wiki/Amy_(1981_film)",
     "title": "Amy",
     "Directed by": "Vincent McEveety",
     "Written by": "Noreen Stone",
@@ -5370,6 +5519,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Dragonslayer_(1981_film)",
     "title": "Dragonslayer",
     "Directed by": "Matthew Robbins",
     "Written by": [
@@ -5411,6 +5561,7 @@
     "Box office": "$14.1 million"
   },
   {
+    "URL": "/wiki/The_Fox_and_the_Hound",
     "title": "The Fox and the Hound",
     "Directed by": [
       "Ted Berman",
@@ -5470,6 +5621,7 @@
     "Box office": "$63.5 million"
   },
   {
+    "URL": "/wiki/Condorman",
     "title": "Condorman",
     "Directed by": "Charles Jarrott",
     "Screenplay by": "Marc Stirdivant",
@@ -5502,6 +5654,7 @@
     "Budget": "$14 million"
   },
   {
+    "URL": "/wiki/Night_Crossing",
     "title": "Night Crossing",
     "Directed by": "Delbert Mann",
     "Written by": "John McGreevey",
@@ -5532,6 +5685,7 @@
     "Box office": "$8 million"
   },
   {
+    "URL": "/wiki/Tron",
     "title": "Tron",
     "Directed by": "Steven Lisberger",
     "Screenplay by": "Steven Lisberger",
@@ -5565,6 +5719,7 @@
     "Box office": "$50 million"
   },
   {
+    "URL": "/wiki/Tex_(film)",
     "title": "Tex",
     "Directed by": "Tim Hunter",
     "Screenplay by": [
@@ -5599,6 +5754,7 @@
     "Box office": "$7.4 million"
   },
   {
+    "URL": "/wiki/Trenchcoat_(film)",
     "title": "Trenchcoat",
     "Directed by": "Michael Tuchner",
     "Written by": [
@@ -5628,6 +5784,7 @@
     "Box office": "$4,304,286 (US)"
   },
   {
+    "URL": "/wiki/Something_Wicked_This_Way_Comes_(film)",
     "title": "Something Wicked This Way Comes",
     "Directed by": "Jack Clayton",
     "Screenplay by": "Ray Bradbury",
@@ -5663,6 +5820,7 @@
     "Box office": "$8.4 million"
   },
   {
+    "URL": "/wiki/Never_Cry_Wolf_(film)",
     "title": "Never Cry Wolf",
     "Directed by": "Carroll Ballard",
     "Screenplay by": [
@@ -5709,6 +5867,7 @@
     "Box office": "$27.6 million"
   },
   {
+    "URL": "/wiki/Return_to_Oz",
     "title": "Return to Oz",
     "Directed by": "Walter Murch",
     "Screenplay by": [
@@ -5754,6 +5913,7 @@
     "Box office": "$11.1 million (USA)"
   },
   {
+    "URL": "/wiki/The_Black_Cauldron_(film)",
     "title": "The Black Cauldron",
     "Directed by": [
       "Ted Berman",
@@ -5817,6 +5977,7 @@
     "Box office": "$21.3 million"
   },
   {
+    "URL": "/wiki/The_Journey_of_Natty_Gann",
     "title": "The Journey of Natty Gann",
     "Directed by": "Jeremy Kagan",
     "Written by": "Jeanne Rosenberg",
@@ -5844,6 +6005,7 @@
     "Box office": "$9.7 million (U.S. and Canada only)"
   },
   {
+    "URL": "/wiki/One_Magic_Christmas",
     "title": "One Magic Christmas",
     "Directed by": "Phillip Borsos",
     "Screenplay by": "Thomas Meehan",
@@ -5883,6 +6045,7 @@
     "Box office": "$13 million"
   },
   {
+    "URL": "/wiki/The_Great_Mouse_Detective",
     "title": "The Great Mouse Detective",
     "Directed by": [
       "John Musker",
@@ -5934,6 +6097,7 @@
     "Box office": "$38.7 million"
   },
   {
+    "URL": "/wiki/Flight_of_the_Navigator",
     "title": "Flight of the Navigator",
     "Directed by": "Randal Kleiser",
     "Screenplay by": [
@@ -5974,7 +6138,9 @@
     "Budget": "$9 million",
     "Box office": "$18.6 million"
   },
+  {},
   {
+    "URL": "/wiki/Benji_the_Hunted",
     "title": "Benji the Hunted",
     "Directed by": "Joe Camp",
     "Written by": "Joe Camp",
@@ -6005,6 +6171,7 @@
     "Box office": "$15,2 million"
   },
   {
+    "URL": "/wiki/The_Man_from_Snowy_River_II",
     "title": "The Man from Snowy River II",
     "Directed by": "Geoff Burrowes",
     "Written by": [
@@ -6046,6 +6213,7 @@
     "Box office": "$13,687,027"
   },
   {
+    "URL": "/wiki/Oliver_%26_Company",
     "title": "Oliver & Company",
     "Directed by": "George Scribner",
     "Screenplay by": [
@@ -6102,10 +6270,11 @@
     "Running time": "74 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$31 million",
-    "Box office": "$121 million"
+    "Budget": "$31 million",
+    "Box office": "$121 million"
   },
   {
+    "URL": "/wiki/Honey,_I_Shrunk_the_Kids",
     "title": "Honey, I Shrunk the Kids",
     "Directed by": "Joe Johnston",
     "Screenplay by": [
@@ -6142,10 +6311,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$18 million",
-    "Box office": "$222.7 million"
+    "Budget": "$18 million",
+    "Box office": "$222.7 million"
   },
   {
+    "URL": "/wiki/Cheetah_(1989_film)",
     "title": "Cheetah",
     "Directed by": "Jeff Blyth",
     "Screenplay by": [
@@ -6186,6 +6356,7 @@
     "Box office": "$8,153,677 (United States)"
   },
   {
+    "URL": "/wiki/The_Little_Mermaid_(1989_film)",
     "title": "The Little Mermaid",
     "Directed by": [
       "John Musker",
@@ -6228,10 +6399,11 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million",
+    "Budget": "$40 million",
     "Box office": ""
   },
   {
+    "URL": "/wiki/DuckTales_the_Movie:_Treasure_of_the_Lost_Lamp",
     "title": "DuckTales the Movie: Treasure of the Lost Lamp",
     "Directed by": "Bob Hathcock",
     "Screenplay by": "Alan Burnett",
@@ -6272,6 +6444,7 @@
     "Box office": "$18.1 million"
   },
   {
+    "URL": "/wiki/The_Rescuers_Down_Under",
     "title": "The Rescuers Down Under",
     "Directed by": [
       "Hendel Butoy",
@@ -6310,6 +6483,7 @@
     "Box office": "$47.4 million"
   },
   {
+    "URL": "/wiki/White_Fang_(1991_film)",
     "title": "White Fang",
     "Directed by": "Randal Kleiser",
     "Screenplay by": [
@@ -6353,6 +6527,7 @@
     "Box office": "$41 million"
   },
   {
+    "URL": "/wiki/Shipwrecked_(1990_film)",
     "title": "Shipwrecked",
     "Directed by": "Nils Gaup",
     "Written by": [
@@ -6396,6 +6571,7 @@
     "Box office": "$17 million (Norway/USA)"
   },
   {
+    "URL": "/wiki/Wild_Hearts_Can%27t_Be_Broken",
     "title": "Wild Hearts Can't Be Broken",
     "Directed by": "Steve Miner",
     "Written by": [
@@ -6427,6 +6603,7 @@
     "Box office": "$7.3 million"
   },
   {
+    "URL": "/wiki/The_Rocketeer_(film)",
     "title": "The Rocketeer",
     "Directed by": "Joe Johnston",
     "Screenplay by": [
@@ -6478,6 +6655,7 @@
     "Box office": "$46.7 million (U.S.)"
   },
   {
+    "URL": "/wiki/Beauty_and_the_Beast_(1991_film)",
     "title": "Beauty and the Beast",
     "Directed by": [
       "Gary Trousdale",
@@ -6528,10 +6706,11 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million",
-    "Box office": "$424 million"
+    "Budget": "$25 million",
+    "Box office": "$424 million"
   },
   {
+    "URL": "/wiki/Newsies",
     "title": "Newsies",
     "Directed by": "Kenny Ortega",
     "Written by": [
@@ -6566,6 +6745,7 @@
     "Box office": "$2.8 million"
   },
   {
+    "URL": "/wiki/Honey,_I_Blew_Up_the_Kid",
     "title": "Honey, I Blew Up the Kid",
     "Directed by": "Randal Kleiser",
     "Screenplay by": [
@@ -6611,6 +6791,7 @@
     "Box office": "$96 million"
   },
   {
+    "URL": "/wiki/The_Mighty_Ducks_(film)",
     "title": "The Mighty Ducks",
     "Directed by": "Stephen Herek",
     "Written by": "Steven Brill",
@@ -6645,6 +6826,7 @@
     "Box office": "$50.8 million"
   },
   {
+    "URL": "/wiki/Aladdin_(1992_Disney_film)",
     "title": "Aladdin",
     "Directed by": [
       "John Musker",
@@ -6698,10 +6880,11 @@
     "Running time": "90 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million",
-    "Box office": "$504.1 million"
+    "Budget": "$28 million",
+    "Box office": "$504.1 million"
   },
   {
+    "URL": "/wiki/The_Muppet_Christmas_Carol",
     "title": "The Muppet Christmas Carol",
     "Directed by": "Brian Henson",
     "Screenplay by": "Jerry Juhl",
@@ -6742,6 +6925,7 @@
     "Box office": "$27.2 million"
   },
   {
+    "URL": "/wiki/Homeward_Bound:_The_Incredible_Journey",
     "title": "Homeward Bound: The Incredible Journey",
     "Directed by": "Duwayne Dunham",
     "Screenplay by": [
@@ -6781,6 +6965,7 @@
     "Box office": "$57 million"
   },
   {
+    "URL": "/wiki/A_Far_Off_Place",
     "title": "A Far Off Place",
     "Directed by": "Mikael Salomon",
     "Screenplay by": [
@@ -6824,6 +7009,7 @@
     "Box office": "$12.9 million"
   },
   {
+    "URL": "/wiki/The_Adventures_of_Huck_Finn_(1993_film)",
     "title": "The Adventures of Huck Finn",
     "Directed by": "Stephen Sommers",
     "Screenplay by": "Stephen Sommers",
@@ -6854,6 +7040,7 @@
     "Box office": "$24.1 million"
   },
   {
+    "URL": "/wiki/Hocus_Pocus_(1993_film)",
     "title": "Hocus Pocus",
     "Directed by": "Kenny Ortega",
     "Screenplay by": [
@@ -6890,10 +7077,11 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million",
-    "Box office": "$50.8 million"
+    "Budget": "$28 million",
+    "Box office": "$50.8 million"
   },
   {
+    "URL": "/wiki/Cool_Runnings",
     "title": "Cool Runnings",
     "Directed by": "Jon Turteltaub",
     "Screenplay by": [
@@ -6931,6 +7119,7 @@
     "Box office": "$154.9 million"
   },
   {
+    "URL": "/wiki/The_Three_Musketeers_(1993_film)",
     "title": "The Three Musketeers",
     "Directed by": "Stephen Herek",
     "Screenplay by": "David Loughery",
@@ -6973,6 +7162,7 @@
     "Box office": "$111 million"
   },
   {
+    "URL": "/wiki/Iron_Will",
     "title": "Iron Will",
     "Directed by": "Charles Haid",
     "Written by": [
@@ -7003,6 +7193,7 @@
     "Box office": "$21 million"
   },
   {
+    "URL": "/wiki/Blank_Check_(film)",
     "title": "Blank Check",
     "Directed by": "Rupert Wainwright",
     "Written by": [
@@ -7041,6 +7232,7 @@
     "Box office": "$39 million"
   },
   {
+    "URL": "/wiki/D2:_The_Mighty_Ducks",
     "title": "D2: The Mighty Ducks",
     "Directed by": "Sam Weisman",
     "Written by": "Steven Brill",
@@ -7078,6 +7270,7 @@
     "Box office": "$45.6 million"
   },
   {
+    "URL": "/wiki/White_Fang_2:_Myth_of_the_White_Wolf",
     "title": "White Fang 2: Myth of the White Wolf",
     "Directed by": "Ken Olin",
     "Written by": "David Fallon",
@@ -7102,6 +7295,7 @@
     "Box office": "$8.9 million"
   },
   {
+    "URL": "/wiki/The_Return_of_Jafar",
     "title": "The Return of Jafar",
     "Directed by": [
       "Toby Shelton",
@@ -7156,6 +7350,7 @@
     "Budget": "$5 million"
   },
   {
+    "URL": "/wiki/The_Lion_King",
     "title": "The Lion King",
     "Directed by": [
       "Roger Allers",
@@ -7212,10 +7407,11 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million",
-    "Box office": "$978.8 million"
+    "Budget": "$45 million",
+    "Box office": "$978.8 million"
   },
   {
+    "URL": "/wiki/Angels_in_the_Outfield_(1994_film)",
     "title": "Angels in the Outfield",
     "Directed by": "William Dear",
     "Screenplay by": "Holly Goldberg Sloan",
@@ -7258,6 +7454,7 @@
     "Box office": "$50.2 million"
   },
   {
+    "URL": "/wiki/Squanto:_A_Warrior%27s_Tale",
     "title": "Squanto: A Warrior's Tale",
     "Directed by": "Xavier Koller",
     "Written by": "Darlene Craviotto",
@@ -7288,6 +7485,7 @@
     "Box office": "$3.3 million"
   },
   {
+    "URL": "/wiki/The_Santa_Clause",
     "title": "The Santa Clause",
     "Directed by": "John Pasquin",
     "Written by": [
@@ -7326,6 +7524,7 @@
     "Box office": "$190.3 million"
   },
   {
+    "URL": "/wiki/The_Jungle_Book_(1994_film)",
     "title": "Rudyard Kipling's The Jungle Book",
     "Directed by": "Stephen Sommers",
     "Screenplay by": [
@@ -7385,6 +7584,7 @@
     "Box office": "$70 million"
   },
   {
+    "URL": "/wiki/Gargoyles_the_Movie:_The_Heroes_Awaken",
     "title": "Gargoyles the Movie: The Heroes Awaken",
     "Directed by": [
       "Saburo Hashimoto",
@@ -7432,6 +7632,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Heavyweights",
     "title": "Heavyweights",
     "Directed by": "Steven Brill",
     "Written by": [
@@ -7476,9 +7677,10 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$17.6 million"
+    "Box office": "$17.6 million"
   },
   {
+    "URL": "/wiki/Man_of_the_House_(1995_film)",
     "title": "Man of the House",
     "Directed by": "James Orr",
     "Screenplay by": [
@@ -7518,6 +7720,7 @@
     "Box office": "$40,070,995"
   },
   {
+    "URL": "/wiki/Tall_Tale_(film)",
     "title": "Tall Tale",
     "Directed by": "Jeremiah Chechik",
     "Written by": [
@@ -7558,6 +7761,7 @@
     "Box office": "$8.2 million"
   },
   {
+    "URL": "/wiki/A_Goofy_Movie",
     "title": "A Goofy Movie",
     "Directed by": "Kevin Lima",
     "Screenplay by": [
@@ -7595,6 +7799,7 @@
     "Box office": "$37.6 million"
   },
   {
+    "URL": "/wiki/Pocahontas_(1995_film)",
     "title": "Pocahontas",
     "Directed by": [
       "Mike Gabriel",
@@ -7653,6 +7858,7 @@
     "Box office": "$346.1 million"
   },
   {
+    "URL": "/wiki/Operation_Dumbo_Drop",
     "title": "Operation Dumbo Drop",
     "Directed by": "Simon Wincer",
     "Screenplay by": [
@@ -7689,6 +7895,7 @@
     "Box office": "$24,670,346"
   },
   {
+    "URL": "/wiki/A_Kid_in_King_Arthur%27s_Court",
     "title": "A Kid in King Arthur's Court",
     "Directed by": "Michael Gottlieb",
     "Written by": [
@@ -7730,6 +7937,7 @@
     "Box office": "$13.4 million (domestic)"
   },
   {
+    "URL": "/wiki/The_Big_Green",
     "title": "The Big Green",
     "Directed by": "Holly Goldberg Sloan",
     "Written by": "Holly Goldberg Sloan",
@@ -7760,6 +7968,7 @@
     "Box office": "$17.7 million"
   },
   {
+    "URL": "/wiki/Frank_and_Ollie",
     "title": "Frank and Ollie",
     "Directed by": "Theodore Thomas",
     "Written by": "Theodore Thomas",
@@ -7788,6 +7997,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Toy_Story",
     "title": "Toy Story",
     "Directed by": "John Lasseter",
     "Screenplay by": [
@@ -7829,10 +8039,11 @@
     "Running time": "81 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million",
-    "Box office": "$394.4 million"
+    "Budget": "$30 million",
+    "Box office": "$394.4 million"
   },
   {
+    "URL": "/wiki/Tom_and_Huck",
     "title": "Tom and Huck (1995)",
     "Directed by": "Peter Hewitt",
     "Screenplay by": [
@@ -7866,6 +8077,7 @@
     "Box office": "$23.9 million (US)"
   },
   {
+    "URL": "/wiki/Muppet_Treasure_Island",
     "title": "Muppet Treasure Island",
     "Directed by": "Brian Henson",
     "Screenplay by": [
@@ -7912,6 +8124,7 @@
     "Box office": "$47.2 million"
   },
   {
+    "URL": "/wiki/Homeward_Bound_II:_Lost_in_San_Francisco",
     "title": "Homeward Bound II: Lost in San Francisco",
     "Directed by": "David R. Ellis",
     "Written by": [
@@ -7948,6 +8161,7 @@
     "Box office": "$32.7 million"
   },
   {
+    "URL": "/wiki/James_and_the_Giant_Peach_(film)",
     "title": "James and the Giant Peach",
     "Directed by": "Henry Selick",
     "Screenplay by": [
@@ -8006,6 +8220,7 @@
     "Box office": "$37.7 million"
   },
   {
+    "URL": "/wiki/The_Hunchback_of_Notre_Dame_(1996_film)",
     "title": "The Hunchback of Notre Dame",
     "Directed by": [
       "Gary Trousdale",
@@ -8047,10 +8262,11 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$70 million",
-    "Box office": "$325.3 million"
+    "Budget": "$70 million",
+    "Box office": "$325.3 million"
   },
   {
+    "URL": "/wiki/Aladdin_and_the_King_of_Thieves",
     "title": "Aladdin and the King of Thieves",
     "Directed by": "Tad Stones",
     "Screenplay by": [
@@ -8090,6 +8306,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/First_Kid",
     "title": "First Kid",
     "Directed by": "David Mickey Evans",
     "Written by": "Tim Kelleher",
@@ -8118,6 +8335,7 @@
     "Box office": "$26,465,920 (USA)"
   },
   {
+    "URL": "/wiki/D3:_The_Mighty_Ducks",
     "title": "D3: The Mighty Ducks",
     "Directed by": "Robert Lieberman",
     "Screenplay by": [
@@ -8159,6 +8377,7 @@
     "Box office": "$22.9 million"
   },
   {
+    "URL": "/wiki/101_Dalmatians_(1996_film)",
     "title": "101 Dalmatians",
     "Directed by": "Stephen Herek",
     "Written by": "John Hughes",
@@ -8197,6 +8416,7 @@
     "Box office": "$320.7 million"
   },
   {
+    "URL": "/wiki/That_Darn_Cat_(1997_film)",
     "title": "That Darn Cat",
     "Directed by": "Bob Spiers",
     "Screenplay by": [
@@ -8235,6 +8455,7 @@
     "Box office": "$18.3 million"
   },
   {
+    "URL": "/wiki/Jungle_2_Jungle",
     "title": "Jungle 2 Jungle",
     "Directed by": "John Pasquin",
     "Written by": [
@@ -8281,6 +8502,7 @@
     "Box office": "$59.9 million"
   },
   {
+    "URL": "/wiki/Honey,_We_Shrunk_Ourselves",
     "title": "Honey, We Shrunk Ourselves",
     "Directed by": "Dean Cundey",
     "Written by": [
@@ -8320,7 +8542,9 @@
     "Language": "English",
     "Budget": "$7 million"
   },
+  {},
   {
+    "URL": "/wiki/Hercules_(1997_film)",
     "title": "Hercules",
     "Directed by": [
       "John Musker",
@@ -8369,10 +8593,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million",
-    "Box office": "$252.7 million"
+    "Budget": "$85 million",
+    "Box office": "$252.7 million"
   },
   {
+    "URL": "/wiki/George_of_the_Jungle_(film)",
     "title": "George of the Jungle",
     "Directed by": "Sam Weisman",
     "Screenplay by": [
@@ -8415,6 +8640,7 @@
     "Box office": "$174.4 million"
   },
   {
+    "URL": "/wiki/Air_Bud",
     "title": "Air Bud",
     "Directed by": "Charles Martin Smith",
     "Written by": [
@@ -8457,6 +8683,7 @@
     "Box office": "$27.8 million"
   },
   {
+    "URL": "/wiki/Pooh%27s_Grand_Adventure:_The_Search_for_Christopher_Robin",
     "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
     "Directed by": "Karl Geurs",
     "Written by": [
@@ -8496,6 +8723,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/RocketMan_(1997_film)",
     "title": "RocketMan",
     "Directed by": "Stuart Gillard",
     "Written by": [
@@ -8532,6 +8760,7 @@
     "Box office": "$15.4 million"
   },
   {
+    "URL": "/wiki/Beauty_and_the_Beast:_The_Enchanted_Christmas",
     "title": "Beauty and the Beast: The Enchanted Christmas",
     "Directed by": "Andy Knight",
     "Written by": [
@@ -8570,6 +8799,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Flubber_(film)",
     "title": "Flubber",
     "Directed by": "Les Mayfield",
     "Screenplay by": [
@@ -8612,6 +8842,7 @@
     "Box office": "$178 million"
   },
   {
+    "URL": "/wiki/Mr._Magoo_(film)",
     "title": "Mr. Magoo",
     "Directed by": "Stanley Tong",
     "Written by": [
@@ -8656,6 +8887,7 @@
     "Box office": "$28.9 million"
   },
   {
+    "URL": "/wiki/Beauty_and_the_Beast:_Belle%27s_Magical_World",
     "title": "Beauty and the Beast: Belle's Magical World",
     "Directed by": [
       "Cullen Blaine",
@@ -8710,6 +8942,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Meet_the_Deedles",
     "title": "Meet the Deedles",
     "Directed by": "Steve Boyum",
     "Written by": "Jim Herzfeld",
@@ -8744,6 +8977,7 @@
     "Box office": "$4.4 million"
   },
   {
+    "URL": "/wiki/Mulan_(1998_film)",
     "title": "Mulan",
     "Directed by": [
       "Barry Cook",
@@ -8784,10 +9018,11 @@
     "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million",
-    "Box office": "$304.3 million"
+    "Budget": "$90 million",
+    "Box office": "$304.3 million"
   },
   {
+    "URL": "/wiki/The_Parent_Trap_(1998_film)",
     "title": "The Parent Trap",
     "Directed by": "Nancy Meyers",
     "Screenplay by": [
@@ -8822,6 +9057,7 @@
     "Box office": "$92.1 million"
   },
   {
+    "URL": "/wiki/Pocahontas_II:_Journey_to_a_New_World",
     "title": "Pocahontas II: Journey to a New World",
     "Directed by": [
       "Tom Ellery",
@@ -8864,6 +9100,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Jungle_Book:_Mowgli%27s_Story",
     "title": "The Jungle Book: Mowgli's Story",
     "Directed by": "Nick Marck",
     "Screenplay by": [
@@ -8897,6 +9134,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Lion_King_II:_Simba%27s_Pride",
     "title": "The Lion King II: Simba's Pride",
     "Directed by": "Darrell Rooney",
     "Screenplay by": [
@@ -8930,6 +9168,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/I%27ll_Be_Home_for_Christmas_(1998_film)",
     "title": "I'll Be Home for Christmas",
     "Directed by": "Arlene Sanford",
     "Screenplay by": [
@@ -8968,6 +9207,7 @@
     "Box office": "$12.2 million"
   },
   {
+    "URL": "/wiki/A_Bug%27s_Life",
     "title": "A Bug's Life",
     "Directed by": "John Lasseter",
     "Screenplay by": [
@@ -9002,10 +9242,11 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40–120 million",
-    "Box office": "$363.3 million"
+    "Budget": "$40–120 million",
+    "Box office": "$363.3 million"
   },
   {
+    "URL": "/wiki/Mighty_Joe_Young_(1998_film)",
     "title": "Mighty Joe Young",
     "Directed by": "Ron Underwood",
     "Screenplay by": [
@@ -9053,6 +9294,7 @@
     "Box office": "$50.6 million (US)"
   },
   {
+    "URL": "/wiki/My_Favorite_Martian_(film)",
     "title": "My Favorite Martian",
     "Directed by": "Donald Petrie",
     "Written by": [
@@ -9092,6 +9334,7 @@
     "Box office": "$36.8 million"
   },
   {
+    "URL": "/wiki/Doug%27s_1st_Movie",
     "title": "Doug's 1st Movie",
     "Directed by": "Maurice Joyce",
     "Written by": "Ken Scarborough",
@@ -9137,6 +9380,7 @@
     "Box office": "$19.4 million"
   },
   {
+    "URL": "/wiki/Endurance_(film)",
     "title": "Endurance",
     "Directed by": "Leslie Woodhead",
     "Written by": "Leslie Woodhead",
@@ -9178,6 +9422,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Tarzan_(1999_film)",
     "title": "Tarzan",
     "Directed by": [
       "Kevin Lima",
@@ -9243,6 +9488,7 @@
     "Box office": "$448.2 million"
   },
   {
+    "URL": "/wiki/Inspector_Gadget_(film)",
     "title": "Inspector Gadget",
     "Directed by": "David Kellogg",
     "Screenplay by": [
@@ -9299,6 +9545,7 @@
     "Box office": "$134.4 million"
   },
   {
+    "URL": "/wiki/Hercules:_Zero_to_Hero",
     "title": "Hercules: Zero to Hero",
     "Directed by": [
       "Bob Kline",
@@ -9344,6 +9591,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Straight_Story",
     "title": "The Straight Story",
     "Directed by": "David Lynch",
     "Written by": [
@@ -9390,6 +9638,7 @@
     "Box office": "$6.2 million (United States)"
   },
   {
+    "URL": "/wiki/Mickey%27s_Once_Upon_a_Christmas",
     "title": "Mickey's Once Upon a Christmas",
     "Directed by": [
       "Alex Mann",
@@ -9453,6 +9702,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Toy_Story_2",
     "title": "Toy Story 2",
     "Directed by": "John Lasseter",
     "Screenplay by": [
@@ -9491,10 +9741,11 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million",
-    "Box office": "$511.4 million"
+    "Budget": "$90 million",
+    "Box office": "$511.4 million"
   },
   {
+    "URL": "/wiki/Fantasia_2000",
     "title": "Fantasia 2000",
     "Directed by": [
       "Don Hahn",
@@ -9538,6 +9789,7 @@
     "Box office": "$90.9 million"
   },
   {
+    "URL": "/wiki/The_Tigger_Movie",
     "title": "The Tigger Movie",
     "Directed by": "Jun Falkenstein",
     "Screenplay by": "Jun Falkenstein",
@@ -9583,6 +9835,7 @@
     "Box office": "$96.2 million"
   },
   {
+    "URL": "/wiki/An_Extremely_Goofy_Movie",
     "title": "An Extremely Goofy Movie",
     "Directed by": "Douglas McCarthy",
     "Screenplay by": "Scott Gorden",
@@ -9619,6 +9872,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Whispers:_An_Elephant%27s_Tale",
     "title": "Whispers: An Elephant's Tale",
     "Directed by": "Dereck Joubert",
     "Screenplay by": [
@@ -9656,6 +9910,7 @@
     "Box office": "$500,000 (USA) (30 November 2000)"
   },
   {
+    "URL": "/wiki/Dinosaur_(2000_film)",
     "title": "Dinosaur",
     "Directed by": [
       "Ralph Zondag",
@@ -9705,6 +9960,7 @@
     "Box office": "$349.8 million"
   },
   {
+    "URL": "/wiki/Disney%27s_The_Kid",
     "title": "The Kid",
     "Directed by": "Jon Turteltaub",
     "Written by": "Audrey Wells",
@@ -9744,6 +10000,7 @@
     "Box office": "$110.3 million"
   },
   {
+    "URL": "/wiki/Buzz_Lightyear_of_Star_Command:_The_Adventure_Begins",
     "title": "Buzz Lightyear of Star Command: The Adventure Begins",
     "Directed by": "Tad Stones",
     "Screenplay by": [
@@ -9791,6 +10048,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Little_Mermaid_II:_Return_to_the_Sea",
     "title": "The Little Mermaid II: Return to the Sea",
     "Directed by": "Jim Kammerud",
     "Written by": [
@@ -9842,6 +10100,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Remember_the_Titans",
     "title": "Remember the Titans",
     "Directed by": "Boaz Yakin",
     "Written by": "Gregory Allen Howard",
@@ -9874,6 +10133,7 @@
     "Box office": "$136.8 million"
   },
   {
+    "URL": "/wiki/102_Dalmatians",
     "title": "102 Dalmatians",
     "Directed by": "Kevin Lima",
     "Screenplay by": [
@@ -9921,6 +10181,7 @@
     "Box office": "$183.6 million"
   },
   {
+    "URL": "/wiki/The_Emperor%27s_New_Groove",
     "title": "The Emperor's New Groove",
     "Directed by": "Mark Dindal",
     "Screenplay by": "David Reynolds",
@@ -9953,10 +10214,11 @@
     "Running time": "78 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million",
+    "Budget": "$100 million",
     "Box office": "$169.7 million"
   },
   {
+    "URL": "/wiki/Recess:_School%27s_Out",
     "title": "Recess: School's Out",
     "Directed by": "Chuck Sheetz",
     "Screenplay by": "Jonathan Greenberg",
@@ -10006,6 +10268,7 @@
     "Box office": "$44.5 million"
   },
   {
+    "URL": "/wiki/Lady_and_the_Tramp_II:_Scamp%27s_Adventure",
     "title": "Lady and the Tramp II:",
     "Directed by": [
       "Darrell Rooney",
@@ -10042,6 +10305,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Atlantis:_The_Lost_Empire",
     "title": "Atlantis: The Lost Empire",
     "Directed by": [
       "Gary Trousdale",
@@ -10087,6 +10351,7 @@
     "Box office": "$186.1 million"
   },
   {
+    "URL": "/wiki/The_Princess_Diaries_(film)",
     "title": "The Princess Diaries",
     "Directed by": "Garry Marshall",
     "Screenplay by": "Gina Wendkos",
@@ -10128,6 +10393,7 @@
     "Box office": "$165.3 million"
   },
   {
+    "URL": "/wiki/Max_Keeble%27s_Big_Move",
     "title": "Max Keeble's Big Move",
     "Directed by": "Tim Hill",
     "Screenplay by": [
@@ -10170,6 +10436,7 @@
     "Box office": "$18.6 million"
   },
   {
+    "URL": "/wiki/Monsters,_Inc.",
     "title": "Monsters, Inc.",
     "Directed by": "Pete Docter",
     "Screenplay by": [
@@ -10205,10 +10472,11 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$115 million",
-    "Box office": "$579.7 million"
+    "Budget": "$115 million",
+    "Box office": "$579.7 million"
   },
   {
+    "URL": "/wiki/Mickey%27s_Magical_Christmas:_Snowed_in_at_the_House_of_Mouse",
     "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
     "Directed by": [
       "Roberts Gannaway",
@@ -10258,6 +10526,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Snow_Dogs",
     "title": "Snow Dogs",
     "Directed by": "Brian Levant",
     "Written by": [
@@ -10294,6 +10563,7 @@
     "Box office": "$115 million"
   },
   {
+    "URL": "/wiki/Return_to_Never_Land",
     "title": "Return to Never Land",
     "Directed by": "Robin Budd",
     "Screenplay by": "Temple Mathews",
@@ -10336,6 +10606,7 @@
     "Box office": "$115.1 million"
   },
   {
+    "URL": "/wiki/Cinderella_II:_Dreams_Come_True",
     "title": "Cinderella II: Dreams Come True",
     "Directed by": "John Kafka",
     "Written by": [
@@ -10366,6 +10637,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Hunchback_of_Notre_Dame_II",
     "title": "The Hunchback of Notre Dame II",
     "Directed by": "Bradley Raymond",
     "Screenplay by": [
@@ -10406,6 +10678,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Rookie_(2002_film)",
     "title": "The Rookie",
     "Directed by": "John Lee Hancock",
     "Written by": "Mike Rich",
@@ -10438,6 +10711,7 @@
     "Box office": "$80.7 million"
   },
   {
+    "URL": "/wiki/Lilo_%26_Stitch",
     "title": "Lilo & Stitch",
     "Directed by": [
       "Chris Sanders",
@@ -10475,6 +10749,7 @@
     "Box office": "$273.1 million"
   },
   {
+    "URL": "/wiki/Tarzan_%26_Jane",
     "title": "Tarzan & Jane",
     "Directed by": [
       "Victor Cook",
@@ -10523,6 +10798,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Country_Bears",
     "title": "The Country Bears",
     "Directed by": "Peter Hastings",
     "Written by": "Mark Perez",
@@ -10556,6 +10832,7 @@
     "Box office": "$18 million"
   },
   {
+    "URL": "/wiki/Mickey%27s_House_of_Villains",
     "title": "Mickey's House of Villains",
     "Directed by": [
       "Jamie Mitchell",
@@ -10606,6 +10883,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Tuck_Everlasting_(2002_film)",
     "title": "Tuck Everlasting",
     "Directed by": "Jay Russell",
     "Screenplay by": [
@@ -10651,6 +10929,7 @@
     "Box office": "$19.3 million"
   },
   {
+    "URL": "/wiki/The_Santa_Clause_2",
     "title": "The Santa Clause 2",
     "Directed by": "Michael Lembeck",
     "Screenplay by": [
@@ -10704,6 +10983,7 @@
     "Box office": "$172.9 million"
   },
   {
+    "URL": "/wiki/Treasure_Planet",
     "title": "Treasure Planet",
     "Directed by": [
       "John Musker",
@@ -10756,6 +11036,7 @@
     "Box office": "$109.6 million"
   },
   {
+    "URL": "/wiki/101_Dalmatians_II:_Patch%27s_London_Adventure",
     "title": "101 Dalmatians II:",
     "Directed by": [
       "Jim Kammerud",
@@ -10802,6 +11083,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Jungle_Book_2",
     "title": "The Jungle Book 2",
     "Directed by": "Steve Trenbirth",
     "Written by": [
@@ -10845,6 +11127,7 @@
     "Box office": "$135.7 million"
   },
   {
+    "URL": "/wiki/Inspector_Gadget_2",
     "title": "Inspector Gadget 2",
     "Directed by": "Alex Zamm",
     "Written by": [
@@ -10890,6 +11173,7 @@
     "Budget": "$12 million"
   },
   {
+    "URL": "/wiki/Piglet%27s_Big_Movie",
     "title": "Piglet's Big Movie",
     "Directed by": "Francis Glebas",
     "Screenplay by": [
@@ -10932,10 +11216,11 @@
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$46 million",
-    "Box office": "$62.9 million"
+    "Budget": "$46 million",
+    "Box office": "$62.9 million"
   },
   {
+    "URL": "/wiki/Ghosts_of_the_Abyss",
     "title": "Ghosts of the Abyss",
     "Directed by": "James Cameron",
     "Produced by": [
@@ -10982,6 +11267,7 @@
     "Box office": "$28.7 million"
   },
   {
+    "URL": "/wiki/Holes_(film)",
     "title": "Holes",
     "Directed by": "Andrew Davis",
     "Screenplay by": "Louis Sachar",
@@ -11025,6 +11311,7 @@
     "Box office": "$71.4 million"
   },
   {
+    "URL": "/wiki/The_Lizzie_McGuire_Movie",
     "title": "The Lizzie McGuire Movie",
     "Directed by": "Jim Fall",
     "Written by": [
@@ -11063,6 +11350,7 @@
     "Box office": "$85.5 million"
   },
   {
+    "URL": "/wiki/Atlantis:_Milo%27s_Return",
     "title": "Atlantis: Milo's Return",
     "Directed by": [
       "Victor Cook",
@@ -11114,6 +11402,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Finding_Nemo",
     "title": "Finding Nemo",
     "Directed by": "Andrew Stanton",
     "Screenplay by": [
@@ -11146,10 +11435,11 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$94 million",
-    "Box office": "$940.3 million"
+    "Budget": "$94 million",
+    "Box office": "$940.3 million"
   },
   {
+    "URL": "/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "Directed by": "Gore Verbinski",
     "Screenplay by": [
@@ -11194,6 +11484,7 @@
     "Box office": "$654.3 million"
   },
   {
+    "URL": "/wiki/Freaky_Friday_(2003_film)",
     "title": "Freaky Friday",
     "Directed by": "Mark Waters",
     "Screenplay by": [
@@ -11232,6 +11523,7 @@
     "Box office": "$160.8 million"
   },
   {
+    "URL": "/wiki/Stitch!_The_Movie",
     "title": "Stitch! The Movie",
     "Directed by": [
       "Tony Craig",
@@ -11266,6 +11558,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/George_of_the_Jungle_2",
     "title": "George of the Jungle 2",
     "Directed by": "David Grossman",
     "Screenplay by": "Jordan Moffet",
@@ -11310,6 +11603,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Brother_Bear",
     "title": "Brother Bear",
     "Directed by": [
       "Aaron Blaise",
@@ -11366,6 +11660,7 @@
     "Box office": "$250.4 million"
   },
   {
+    "URL": "/wiki/The_Haunted_Mansion_(2003_film)",
     "title": "The Haunted Mansion",
     "Directed by": "Rob Minkoff",
     "Written by": "David Berenbaum",
@@ -11400,6 +11695,7 @@
     "Box office": "$182.3 million"
   },
   {
+    "URL": "/wiki/The_Young_Black_Stallion",
     "title": "The Young Black Stallion",
     "Directed by": "Simon Wincer",
     "Screenplay by": "Jeanne Rosenberg",
@@ -11439,6 +11735,7 @@
     "Box office": "$9.6 million"
   },
   {
+    "URL": "/wiki/Teacher%27s_Pet_(2004_film)",
     "title": "Teacher's Pet",
     "Directed by": "Timothy Björklund",
     "Written by": [
@@ -11476,6 +11773,7 @@
     "Box office": "$6.5 million"
   },
   {
+    "URL": "/wiki/Miracle_(2004_film)",
     "title": "Miracle",
     "Directed by": "Gavin O'Connor",
     "Written by": "Eric Guggenheim",
@@ -11510,6 +11808,7 @@
     "Box office": "$64.5 million"
   },
   {
+    "URL": "/wiki/The_Lion_King_1%C2%BD",
     "title": "The Lion King 1½",
     "Directed by": "Bradley Raymond",
     "Screenplay by": "Tom Rogers",
@@ -11536,6 +11835,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Confessions_of_a_Teenage_Drama_Queen",
     "title": "Confessions of a Teenage Drama Queen",
     "Directed by": "Sara Sugarman",
     "Screenplay by": "Gail Parent",
@@ -11570,6 +11870,7 @@
     "Box office": "$33.3 million"
   },
   {
+    "URL": "/wiki/Springtime_with_Roo",
     "title": "Winnie the Pooh: Springtime with Roo",
     "Directed by": [
       "Elliot M. Bour",
@@ -11606,6 +11907,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Home_on_the_Range_(2004_film)",
     "title": "Home on the Range",
     "Directed by": [
       "Will Finn",
@@ -11647,6 +11949,7 @@
     "Box office": "$145.3 million"
   },
   {
+    "URL": "/wiki/Sacred_Planet",
     "title": "Sacred Planet",
     "Directed by": [
       "Jon Long",
@@ -11693,6 +11996,7 @@
     "Box office": "$1.1 million"
   },
   {
+    "URL": "/wiki/Around_the_World_in_80_Days_(2004_film)",
     "title": "Around the World in 80 Days",
     "Directed by": "Frank Coraci",
     "Screenplay by": [
@@ -11742,6 +12046,7 @@
     "Box office": "$72.2 million"
   },
   {
+    "URL": "/wiki/America%27s_Heart_and_Soul",
     "title": "America's Heart and Soul",
     "Directed by": "Louis Schwartzberg",
     "Produced by": "Louis Schwartzberg",
@@ -11765,6 +12070,7 @@
     "Box office": "$314,402"
   },
   {
+    "URL": "/wiki/The_Princess_Diaries_2:_Royal_Engagement",
     "title": "The Princess Diaries 2: Royal Engagement",
     "Directed by": "Garry Marshall",
     "Screenplay by": "Shonda Rhimes",
@@ -11807,6 +12113,7 @@
     "Box office": "$134.7 million"
   },
   {
+    "URL": "/wiki/Mickey,_Donald,_Goofy:_The_Three_Musketeers",
     "title": "Mickey, Donald, Goofy: The Three Musketeers",
     "Directed by": "Donovan Cook",
     "Screenplay by": [
@@ -11844,6 +12151,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Incredibles",
     "title": "The Incredibles",
     "Directed by": "Brad Bird",
     "Written by": "Brad Bird",
@@ -11876,10 +12184,11 @@
     "Running time": "115 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$92–145 million",
-    "Box office": "$631.6 million"
+    "Budget": "$92–145 million",
+    "Box office": "$631.6 million"
   },
   {
+    "URL": "/wiki/Mickey%27s_Twice_Upon_a_Christmas",
     "title": "Mickey's Twice Upon a Christmas",
     "Directed by": "Matthew O'Callaghan",
     "Screenplay by": [
@@ -11938,6 +12247,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/National_Treasure_(film)",
     "title": "National Treasure",
     "Directed by": "Jon Turteltaub",
     "Screenplay by": [
@@ -11983,6 +12293,7 @@
     "Box office": "$347.5 million"
   },
   {
+    "URL": "/wiki/Aliens_of_the_Deep",
     "title": "Aliens of the Deep",
     "Directed by": [
       "James Cameron",
@@ -12025,6 +12336,7 @@
     "Box office": "$9 million"
   },
   {
+    "URL": "/wiki/Mulan_II",
     "title": "Mulan II",
     "Directed by": [
       "Darrell Rooney",
@@ -12064,6 +12376,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Pooh%27s_Heffalump_Movie",
     "title": "Pooh's Heffalump Movie",
     "Directed by": "Frank Nissen",
     "Screenplay by": [
@@ -12105,10 +12418,11 @@
     "Running time": "68 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million",
-    "Box office": "$52.9 million"
+    "Budget": "$20 million",
+    "Box office": "$52.9 million"
   },
   {
+    "URL": "/wiki/The_Pacifier",
     "title": "The Pacifier",
     "Directed by": "Adam Shankman",
     "Written by": [
@@ -12147,6 +12461,7 @@
     "Box office": "$198.6 million"
   },
   {
+    "URL": "/wiki/Ice_Princess",
     "title": "Ice Princess",
     "Directed by": "Tim Fywell",
     "Screenplay by": "Hadley Davis",
@@ -12180,6 +12495,7 @@
     "Box office": "$25.7 million"
   },
   {
+    "URL": "/wiki/Tarzan_II",
     "title": "Tarzan II",
     "Directed by": "Brian Smith",
     "Screenplay by": [
@@ -12230,6 +12546,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Herbie:_Fully_Loaded",
     "title": "Herbie: Fully Loaded",
     "Directed by": "Angela Robinson",
     "Screenplay by": [
@@ -12275,6 +12592,7 @@
     "Box office": "$144.1 million"
   },
   {
+    "URL": "/wiki/Sky_High_(2005_film)",
     "title": "Sky High",
     "Directed by": "Mike Mitchell",
     "Written by": [
@@ -12308,6 +12626,7 @@
     "Box office": "$86.4 million"
   },
   {
+    "URL": "/wiki/Valiant_(film)",
     "title": "Valiant",
     "Directed by": "Gary Chapman",
     "Screenplay by": [
@@ -12361,6 +12680,7 @@
     "Box office": "$61.7 million"
   },
   {
+    "URL": "/wiki/Lilo_%26_Stitch_2:_Stitch_Has_a_Glitch",
     "title": "Lilo & Stitch 2: Stitch Has a Glitch",
     "Directed by": [
       "Tony Leondis",
@@ -12396,6 +12716,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Pooh%27s_Heffalump_Halloween_Movie",
     "title": "Pooh's Heffalump Halloween Movie",
     "Directed by": [
       "Elliot M. Bour",
@@ -12433,6 +12754,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Greatest_Game_Ever_Played",
     "title": "The Greatest Game Ever Played",
     "Directed by": "Bill Paxton",
     "Screenplay by": "Mark Frost",
@@ -12466,6 +12788,7 @@
     "Box office": "$15.4 million"
   },
   {
+    "URL": "/wiki/Chicken_Little_(2005_film)",
     "title": "Chicken Little",
     "Directed by": "Mark Dindal",
     "Screenplay by": [
@@ -12507,6 +12830,7 @@
     "Box office": "$314.4 million"
   },
   {
+    "URL": "/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe",
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "Directed by": "Andrew Adamson",
     "Screenplay by": [
@@ -12560,6 +12884,7 @@
     "Box office": "$745 million"
   },
   {
+    "URL": "/wiki/Kronk%27s_New_Groove",
     "title": "Kronk's New Groove",
     "Directed by": [
       "Elliot M. Bour",
@@ -12613,6 +12938,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Glory_Road_(film)",
     "title": "Glory Road",
     "Directed by": "James Gartner",
     "Written by": [
@@ -12651,6 +12977,7 @@
     "Box office": "$42.9 million"
   },
   {
+    "URL": "/wiki/Roving_Mars",
     "title": "Roving Mars",
     "Directed by": "George Butler",
     "Written by": [
@@ -12684,6 +13011,7 @@
     "Box office": "$11 million"
   },
   {
+    "URL": "/wiki/Bambi_II",
     "title": "Bambi II",
     "Directed by": "Brian Pimental",
     "Screenplay by": "Alicia Kirk",
@@ -12741,6 +13069,7 @@
     "Box office": "$35 million"
   },
   {
+    "URL": "/wiki/Eight_Below",
     "title": "Eight Below",
     "Directed by": "Frank Marshall",
     "Screenplay by": "David DiGillio",
@@ -12781,6 +13110,7 @@
     "Box office": "$120.5 million"
   },
   {
+    "URL": "/wiki/The_Shaggy_Dog_(2006_film)",
     "title": "The Shaggy Dog",
     "Directed by": "Brian Robbins",
     "Screenplay by": [
@@ -12829,6 +13159,7 @@
     "Box office": "$87.1 million"
   },
   {
+    "URL": "/wiki/The_Wild",
     "title": "The Wild",
     "Directed by": "Steve \"Spaz\" Williams",
     "Screenplay by": [
@@ -12879,6 +13210,7 @@
     "Box office": "$102.3 million"
   },
   {
+    "URL": "/wiki/Cars_(film)",
     "title": "Cars",
     "Directed by": "John Lasseter",
     "Screenplay by": [
@@ -12918,6 +13250,7 @@
     "Box office": "$462 million"
   },
   {
+    "URL": "/wiki/Leroy_%26_Stitch",
     "title": "Leroy & Stitch",
     "Directed by": [
       "Tony Craig",
@@ -12970,6 +13303,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
     "title": "Pirates of the Caribbean: Dead Man's Chest",
     "Directed by": "Gore Verbinski",
     "Written by": [
@@ -13017,6 +13351,7 @@
     "Box office": "$1.066 billion"
   },
   {
+    "URL": "/wiki/Invincible_(2006_film)",
     "title": "Invincible",
     "Directed by": "Ericson Core",
     "Written by": "Brad Gann",
@@ -13048,6 +13383,7 @@
     "Box office": "$58.5 million"
   },
   {
+    "URL": "/wiki/Brother_Bear_2",
     "title": "Brother Bear 2",
     "Directed by": "Ben Gluck",
     "Written by": "Rich Burns",
@@ -13089,6 +13425,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Nightmare_Before_Christmas",
     "title": "The Nightmare Before Christmas",
     "Directed by": "Henry Selick",
     "Screenplay by": "Caroline Thompson",
@@ -13130,6 +13467,7 @@
     "Box office": "$101 million"
   },
   {
+    "URL": "/wiki/The_Santa_Clause_3:_The_Escape_Clause",
     "title": "The Santa Clause 3: The Escape Clause",
     "Directed by": "Michael Lembeck",
     "Written by": [
@@ -13174,9 +13512,10 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$110.8 million"
+    "Box office": "$110.8 million"
   },
   {
+    "URL": "/wiki/The_Fox_and_the_Hound_2",
     "title": "The Fox and the Hound 2",
     "Directed by": "Jim Kammerud",
     "Screenplay by": [
@@ -13210,6 +13549,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Cinderella_III:_A_Twist_in_Time",
     "title": "Cinderella III: A Twist in Time",
     "Directed by": "Frank Nissen",
     "Written by": [
@@ -13244,6 +13584,7 @@
     "Budget": "$8 million"
   },
   {
+    "URL": "/wiki/Bridge_to_Terabithia_(2007_film)",
     "title": "Bridge to Terabithia",
     "Directed by": "Gábor Csupó",
     "Screenplay by": [
@@ -13287,6 +13628,7 @@
     "Box office": "$137.6 million"
   },
   {
+    "URL": "/wiki/Meet_the_Robinsons",
     "title": "Meet the Robinsons",
     "Directed by": "Stephen Anderson",
     "Screenplay by": [
@@ -13333,6 +13675,7 @@
     "Box office": "$170.5 million"
   },
   {
+    "URL": "/wiki/Pirates_of_the_Caribbean:_At_World%27s_End",
     "title": "Pirates of the Caribbean: At World's End",
     "Directed by": "Gore Verbinski",
     "Written by": [
@@ -13378,10 +13721,11 @@
     "Running time": "168 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$300 million",
-    "Box office": "$963.4 million"
+    "Budget": "$300 million",
+    "Box office": "$963.4 million"
   },
   {
+    "URL": "/wiki/Ratatouille_(film)",
     "title": "Ratatouille",
     "Directed by": "Brad Bird",
     "Screenplay by": "Brad Bird",
@@ -13417,10 +13761,11 @@
     "Running time": "111 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million",
-    "Box office": "$623.7 million"
+    "Budget": "$150 million",
+    "Box office": "$623.7 million"
   },
   {
+    "URL": "/wiki/The_Secret_of_the_Magic_Gourd_(2007_film)",
     "title": "The Secret of the Magic Gourd",
     "Traditional Chinese": "",
     "Simplified Chinese": "",
@@ -13457,6 +13802,7 @@
     "Box office": "$3.1 million"
   },
   {
+    "URL": "/wiki/Underdog_(2007_film)",
     "title": "Underdog",
     "Directed by": "Frederik Du Chau",
     "Screenplay by": [
@@ -13506,6 +13852,7 @@
     "Box office": "$65.3 million"
   },
   {
+    "URL": "/wiki/The_Pixar_Story",
     "title": "The Pixar Story",
     "Directed by": "Leslie Iwerks",
     "Written by": "Leslie Iwerks",
@@ -13535,6 +13882,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Game_Plan_(film)",
     "title": "The Game Plan",
     "Directed by": "Andy Fickman",
     "Screenplay by": [
@@ -13576,6 +13924,7 @@
     "Box office": "$146.6 million"
   },
   {
+    "URL": "/wiki/Enchanted_(film)",
     "title": "Enchanted",
     "Directed by": "Kevin Lima",
     "Written by": "Bill Kelly",
@@ -13614,6 +13963,7 @@
     "Box office": "$340.5 million"
   },
   {
+    "URL": "/wiki/National_Treasure:_Book_of_Secrets",
     "title": "National Treasure: Book of Secrets",
     "Directed by": "Jon Turteltaub",
     "Screenplay by": [
@@ -13675,6 +14025,7 @@
     "Box office": "$459.2 million"
   },
   {
+    "URL": "/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert",
     "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
     "Directed by": "Bruce Hendricks",
     "Produced by": "Art Repola",
@@ -13711,6 +14062,7 @@
     "Box office": "$70.6 million ($100 million in 2023 dollars)"
   },
   {
+    "URL": "/wiki/College_Road_Trip",
     "title": "College Road Trip",
     "Directed by": "Roger Kumble",
     "Written by": [
@@ -13747,6 +14099,7 @@
     "Box office": "$51.5 million"
   },
   {
+    "URL": "/wiki/The_Chronicles_of_Narnia:_Prince_Caspian",
     "title": "The Chronicles of Narnia: Prince Caspian",
     "Directed by": "Andrew Adamson",
     "Screenplay by": [
@@ -13794,6 +14147,7 @@
     "Box office": "$419.6 million"
   },
   {
+    "URL": "/wiki/WALL-E",
     "title": "WALL•E",
     "Directed by": "Andrew Stanton",
     "Screenplay by": [
@@ -13832,10 +14186,11 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$180 million",
-    "Box office": "$532.5 million"
+    "Budget": "$180 million",
+    "Box office": "$532.5 million"
   },
   {
+    "URL": "/wiki/The_Little_Mermaid:_Ariel%27s_Beginning",
     "title": "The Little Mermaid: Ariel's Beginning",
     "Directed by": "Peggy Holmes",
     "Screenplay by": [
@@ -13878,6 +14233,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Beverly_Hills_Chihuahua",
     "title": "Beverly Hills Chihuahua",
     "Directed by": "Raja Gosnell",
     "Screenplay by": [
@@ -13925,6 +14281,7 @@
     "Box office": "$149.3 million"
   },
   {
+    "URL": "/wiki/Morning_Light_(film)",
     "title": "Morning Light",
     "Directed by": "Mark Monroe",
     "Written by": "Mark Morone",
@@ -13955,6 +14312,7 @@
     "Box office": "$275,776"
   },
   {
+    "URL": "/wiki/High_School_Musical_3:_Senior_Year",
     "title": "High School Musical 3: Senior Year",
     "Directed by": "Kenny Ortega",
     "Written by": "Peter Barsocchini",
@@ -13993,6 +14351,7 @@
     "Box office": "$252.9 million"
   },
   {
+    "URL": "/wiki/Roadside_Romeo",
     "title": "Roadside Romeo",
     "Directed by": "Jugal Hansraj",
     "Written by": "Jugal Hansraj",
@@ -14032,6 +14391,7 @@
     "Box office": "82.3 million"
   },
   {
+    "URL": "/wiki/Tinker_Bell_(film)",
     "title": "Tinker Bell",
     "Directed by": "Bradley Raymond",
     "Written by": "Jeffrey M. Howard",
@@ -14066,6 +14426,7 @@
     "Box office": "$9.2 million"
   },
   {
+    "URL": "/wiki/Bolt_(2008_film)",
     "title": "Bolt",
     "Directed by": [
       "Chris Williams",
@@ -14103,6 +14464,7 @@
     "Box office": "$310 million"
   },
   {
+    "URL": "/wiki/Bedtime_Stories_(film)",
     "title": "Bedtime Stories",
     "Directed by": "Adam Shankman",
     "Screenplay by": [
@@ -14152,6 +14514,7 @@
     "Box office": "$212.9 million"
   },
   {
+    "URL": "/wiki/Jonas_Brothers:_The_3D_Concert_Experience",
     "title": "Jonas Brothers: The 3D Concert Experience",
     "Directed by": "Bruce Hendricks",
     "Produced by": [
@@ -14193,6 +14556,7 @@
     "Box office": "$30.4 million ($43.5 million adj. for 2023 inflation"
   },
   {
+    "URL": "/wiki/Race_to_Witch_Mountain",
     "title": "Race to Witch Mountain",
     "Directed by": "Andy Fickman",
     "Screenplay by": [
@@ -14237,6 +14601,7 @@
     "Box office": "$106.4 million"
   },
   {
+    "URL": "/wiki/Hannah_Montana:_The_Movie",
     "title": "Hannah Montana: The Movie",
     "Directed by": "Peter Chelsom",
     "Written by": "Dan Berendsen",
@@ -14280,6 +14645,7 @@
     "Box office": "$169.2 million"
   },
   {
+    "URL": "/wiki/Earth_(2007_film)",
     "title": "Earth",
     "Directed by": [
       "Alastair Fothergill",
@@ -14351,6 +14717,7 @@
     "Box office": "$109 million"
   },
   {
+    "URL": "/wiki/The_Boys:_The_Sherman_Brothers%27_Story",
     "title": "The Boys: The Sherman Brothers' Story",
     "Directed by": [
       "Gregory V. Sherman",
@@ -14392,6 +14759,7 @@
     "Box office": "$55,513"
   },
   {
+    "URL": "/wiki/Up_(2009_film)",
     "title": "Up",
     "Directed by": "Pete Docter",
     "Screenplay by": [
@@ -14432,6 +14800,7 @@
     "Box office": "$735.1 million"
   },
   {
+    "URL": "/wiki/Lilly_the_Witch:_The_Dragon_and_the_Magic_Book",
     "title": "Lilly the Witch: The Dragon and the Magic Book",
     "Directed by": "Stefan Ruzowitzky",
     "Written by": [
@@ -14462,6 +14831,7 @@
     "Language": "German"
   },
   {
+    "URL": "/wiki/G-Force_(film)",
     "title": "G-Force",
     "Directed by": "Hoyt H. Yeatman Jr.",
     "Screenplay by": [
@@ -14505,6 +14875,7 @@
     "Box office": "$292.8 million"
   },
   {
+    "URL": "/wiki/Walt_%26_El_Grupo",
     "title": "Walt & El Grupo",
     "Directed by": "Theodore Thomas",
     "Written by": "Theodore Thomas",
@@ -14525,6 +14896,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Tinker_Bell_and_the_Lost_Treasure",
     "title": "Tinker Bell and the Lost Treasure",
     "Directed by": "Klay Hall",
     "Written by": "Evan Spiliotopoulos",
@@ -14562,6 +14934,7 @@
     "Box office": "$8.6 million"
   },
   {
+    "URL": "/wiki/The_Book_of_Masters",
     "title": "Книга Мастеров",
     "Directed by": "Vadim Sokolovsky",
     "Written by": [
@@ -14591,6 +14964,7 @@
     "Box office": "$11.3 million"
   },
   {
+    "URL": "/wiki/A_Christmas_Carol_(2009_film)",
     "title": "Disney's A Christmas Carol",
     "Directed by": "Robert Zemeckis",
     "Screenplay by": "Robert Zemeckis",
@@ -14631,6 +15005,7 @@
     "Box office": "$325.3 million"
   },
   {
+    "URL": "/wiki/Old_Dogs_(film)",
     "title": "Old Dogs",
     "Directed by": "Walt Becker",
     "Written by": [
@@ -14675,6 +15050,7 @@
     "Box office": "$96.8 million"
   },
   {
+    "URL": "/wiki/The_Princess_and_the_Frog",
     "title": "The Princess and the Frog",
     "Directed by": [
       "John Musker",
@@ -14724,6 +15100,7 @@
     "Box office": "$271 million"
   },
   {
+    "URL": "/wiki/Alice_in_Wonderland_(2010_film)",
     "title": "Alice in Wonderland",
     "Directed by": "Tim Burton",
     "Screenplay by": "Linda Woolverton",
@@ -14773,6 +15150,7 @@
     "Box office": "$1.025 billion"
   },
   {
+    "URL": "/wiki/Waking_Sleeping_Beauty",
     "title": "Waking Sleeping Beauty",
     "Directed by": "Don Hahn",
     "Written by": "Patrick Pacheco",
@@ -14809,6 +15187,7 @@
     "Box office": "$84,918"
   },
   {
+    "URL": "/wiki/Oceans_(film)",
     "title": "Oceans",
     "Directed by": [
       "Jacques Perrin",
@@ -14871,6 +15250,7 @@
     "Box office": "$82.7 million"
   },
   {
+    "URL": "/wiki/Prince_of_Persia:_The_Sands_of_Time_(film)",
     "title": "Prince of Persia: The Sands of Time",
     "Directed by": "Mike Newell",
     "Screenplay by": [
@@ -14917,6 +15297,7 @@
     "Box office": "$336.4 million"
   },
   {
+    "URL": "/wiki/Toy_Story_3",
     "title": "Toy Story 3",
     "Directed by": "Lee Unkrich",
     "Screenplay by": "Michael Arndt",
@@ -14957,10 +15338,11 @@
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million",
-    "Box office": "$1.067 billion"
+    "Budget": "$200 million",
+    "Box office": "$1.067 billion"
   },
   {
+    "URL": "/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
     "title": "The Sorcerer's Apprentice",
     "Directed by": "Jon Turteltaub",
     "Screenplay by": [
@@ -15010,6 +15392,7 @@
     "Box office": "$215.3 million"
   },
   {
+    "URL": "/wiki/The_Crimson_Wing:_Mystery_of_the_Flamingos",
     "title": "The Crimson Wing: Mystery of the Flamingos",
     "Directed by": [
       "Matthew Aeberhard",
@@ -15054,6 +15437,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Tinker_Bell_and_the_Great_Fairy_Rescue",
     "title": "Tinker Bell and the Great Fairy Rescue",
     "Directed by": "Bradley Raymond",
     "Screenplay by": [
@@ -15110,6 +15494,7 @@
     "Box office": "$10.87 million"
   },
   {
+    "URL": "/wiki/Fuchsia_the_Mini-Witch_(2010_film)",
     "title": "Fuchsia the Mini-Witch",
     "Directed by": "Johan Nijenhuis",
     "Screenplay by": "Sander de Reg",
@@ -15143,6 +15528,7 @@
     "Box office": "$2,556,423"
   },
   {
+    "URL": "/wiki/Secretariat_(film)",
     "title": "Secretariat",
     "Directed by": "Randall Wallace",
     "Written by": [
@@ -15183,6 +15569,7 @@
     "Box office": "$60.3 million"
   },
   {
+    "URL": "/wiki/Do_Dooni_Chaar",
     "title": "Do Dooni Chaar",
     "Directed by": "Habib Faisal",
     "Screenplay by": [
@@ -15215,6 +15602,7 @@
     "Language": "Hindi"
   },
   {
+    "URL": "/wiki/Tangled",
     "title": "Tangled",
     "Directed by": [
       "Nathan Greno",
@@ -15255,6 +15643,7 @@
     "Box office": "$592.5 million"
   },
   {
+    "URL": "/wiki/Tron:_Legacy",
     "title": "Tron: Legacy",
     "Directed by": "Joseph Kosinski",
     "Screenplay by": [
@@ -15300,10 +15689,11 @@
     "Running time": "125 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$170 million",
+    "Budget": "$170 million",
     "Box office": "$400.1 million"
   },
   {
+    "URL": "/wiki/Anaganaga_O_Dheerudu",
     "title": "Once Upon a Warrior",
     "Original title": "Anaganaga O Dheerudu",
     "Directed by": "Prakash Kovelamudi",
@@ -15342,6 +15732,7 @@
     "Budget": ""
   },
   {
+    "URL": "/wiki/Beverly_Hills_Chihuahua_2",
     "title": "Beverly Hills Chihuahua 2",
     "Directed by": "Alex Zamm",
     "Written by": [
@@ -15388,6 +15779,7 @@
     "Box office": "$29.6 million"
   },
   {
+    "URL": "/wiki/Lilly_the_Witch:_The_Journey_to_Mandolan",
     "title": "Lilly the Witch: The Journey to Mandolan",
     "Directed by": "Harald Sicheritz",
     "Written by": [
@@ -15424,6 +15816,7 @@
     "Language": "German"
   },
   {
+    "URL": "/wiki/Mars_Needs_Moms",
     "title": "Mars Needs Moms",
     "Directed by": "Simon Wells",
     "Screenplay by": [
@@ -15470,6 +15863,7 @@
     "Box office": "$39.2 million"
   },
   {
+    "URL": "/wiki/Zokkomon",
     "title": "Zokkomon",
     "Directed by": "Satyajit Bhatkal",
     "Screenplay by": [
@@ -15503,6 +15897,7 @@
     "Language": "Hindi"
   },
   {
+    "URL": "/wiki/African_Cats",
     "title": "African Cats",
     "Directed by": [
       "Keith Scholey",
@@ -15544,6 +15939,7 @@
     "Box office": "$30.9 million"
   },
   {
+    "URL": "/wiki/Prom_(film)",
     "title": "Prom",
     "Directed by": "Joe Nussbaum",
     "Written by": "Katie Wech",
@@ -15582,6 +15978,7 @@
     "Box office": "$10.7 million"
   },
   {
+    "URL": "/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
     "title": "Pirates of the Caribbean: On Stranger Tides",
     "Directed by": "Rob Marshall",
     "Written by": [
@@ -15636,6 +16033,7 @@
     "Box office": "$1.046 billion"
   },
   {
+    "URL": "/wiki/Cars_2",
     "title": "Cars 2",
     "Directed by": "John Lasseter",
     "Screenplay by": "Ben Queen",
@@ -15671,10 +16069,11 @@
     "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million",
+    "Budget": "$200 million",
     "Box office": "$559.8 million"
   },
   {
+    "URL": "/wiki/Winnie_the_Pooh_(2011_film)",
     "title": "Winnie the Pooh",
     "Directed by": [
       "Stephen Anderson",
@@ -15732,6 +16131,7 @@
     "Box office": "$50.1 million"
   },
   {
+    "URL": "/wiki/Spooky_Buddies",
     "title": "Spooky Buddies",
     "Directed by": "Robert Vince",
     "Written by": [
@@ -15776,6 +16176,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Muppets_(film)",
     "title": "The Muppets",
     "Directed by": "James Bobin",
     "Written by": [
@@ -15808,10 +16209,11 @@
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million",
+    "Budget": "$45 million",
     "Box office": "$325.2 million"
   },
   {
+    "URL": "/wiki/Treasure_Buddies",
     "title": "Treasure Buddies",
     "Directed by": "Robert Vince",
     "Written by": [
@@ -15853,6 +16255,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/John_Carter_(film)",
     "title": "John Carter",
     "Directed by": "Andrew Stanton",
     "Screenplay by": [
@@ -15902,6 +16305,7 @@
     "Box office": "$284.1 million"
   },
   {
+    "URL": "/wiki/Chimpanzee_(film)",
     "title": "Chimpanzee",
     "Directed by": [
       "Alastair Fothergill",
@@ -15948,6 +16352,7 @@
     "Box office": "$34.8 million"
   },
   {
+    "URL": "/wiki/Arjun:_The_Warrior_Prince",
     "title": "Arjun: The Warrior Prince",
     "Directed by": "Arnab Chaudhuri",
     "Written by": "Rajesh Devraj",
@@ -15976,6 +16381,7 @@
     "Language": "Hindi"
   },
   {
+    "URL": "/wiki/Brave_(2012_film)",
     "title": "Brave",
     "Directed by": [
       "Mark Andrews",
@@ -16020,6 +16426,7 @@
     "Box office": "$539 million"
   },
   {
+    "URL": "/wiki/The_Odd_Life_of_Timothy_Green",
     "title": "The Odd Life of Timothy Green",
     "Directed by": "Peter Hedges",
     "Screenplay by": "Peter Hedges",
@@ -16060,6 +16467,7 @@
     "Box office": "$56 million"
   },
   {
+    "URL": "/wiki/Beverly_Hills_Chihuahua_3:_Viva_la_Fiesta!",
     "title": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
     "Directed by": "Lev L. Spiro",
     "Written by": "Dana Starfield",
@@ -16095,6 +16503,7 @@
     "Box office": "$12.2 million"
   },
   {
+    "URL": "/wiki/Frankenweenie_(2012_film)",
     "title": "Frankenweenie",
     "Directed by": "Tim Burton",
     "Screenplay by": "John August",
@@ -16139,6 +16548,7 @@
     "Box office": "$81.5 million"
   },
   {
+    "URL": "/wiki/Secret_of_the_Wings",
     "title": "Secret of the Wings",
     "Directed by": "Peggy Holmes",
     "Screenplay by": [
@@ -16188,6 +16598,7 @@
     "Box office": "$67.5 million"
   },
   {
+    "URL": "/wiki/Wreck-It_Ralph",
     "title": "Wreck-It Ralph",
     "Directed by": "Rich Moore",
     "Screenplay by": [
@@ -16218,10 +16629,11 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$165 million",
+    "Budget": "$165 million",
     "Box office": "$496.5 million"
   },
   {
+    "URL": "/wiki/Oz_the_Great_and_Powerful",
     "title": "Oz the Great and Powerful",
     "Directed by": "Sam Raimi",
     "Screenplay by": [
@@ -16267,6 +16679,7 @@
     "Box office": "$493.3 million"
   },
   {
+    "URL": "/wiki/Wings_of_Life",
     "title": "Wings of Life",
     "Directed by": "Louis Schwartzberg",
     "Produced by": [
@@ -16310,6 +16723,7 @@
     ]
   },
   {
+    "URL": "/wiki/Monsters_University",
     "title": "Monsters University",
     "Directed by": "Dan Scanlon",
     "Screenplay by": [
@@ -16353,10 +16767,11 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million",
-    "Box office": "$743.6 million"
+    "Budget": "$200 million",
+    "Box office": "$743.6 million"
   },
   {
+    "URL": "/wiki/The_Lone_Ranger_(2013_film)",
     "title": "The Lone Ranger",
     "Directed by": "Gore Verbinski",
     "Screenplay by": [
@@ -16413,6 +16828,7 @@
     "Box office": "$260.5 million"
   },
   {
+    "URL": "/wiki/Planes_(film)",
     "title": "Planes",
     "Directed by": "Klay Hall",
     "Screenplay by": "Jeffrey M. Howard",
@@ -16457,6 +16873,7 @@
     "Box office": "$240.2 million"
   },
   {
+    "URL": "/wiki/Super_Buddies_(film)",
     "title": "Super Buddies",
     "Directed by": "Robert Vince",
     "Written by": [
@@ -16506,6 +16923,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Frozen_(2013_film)",
     "title": "Frozen",
     "Directed by": [
       "Chris Buck",
@@ -16555,6 +16973,7 @@
     "Box office": "$1.280 billion"
   },
   {
+    "URL": "/wiki/Saving_Mr._Banks",
     "title": "Saving Mr. Banks",
     "Directed by": "John Lee Hancock",
     "Written by": [
@@ -16605,6 +17024,7 @@
     "Box office": "$117.9 million"
   },
   {
+    "URL": "/wiki/Muppets_Most_Wanted",
     "title": "Muppets Most Wanted",
     "Directed by": "James Bobin",
     "Written by": [
@@ -16640,6 +17060,7 @@
     "Box office": "$288.4 million"
   },
   {
+    "URL": "/wiki/The_Pirate_Fairy",
     "title": "The Pirate Fairy",
     "Directed by": "Peggy Holmes",
     "Screenplay by": [
@@ -16688,6 +17109,7 @@
     "Box office": "$63.9 million"
   },
   {
+    "URL": "/wiki/Bears_(film)",
     "title": "Bears",
     "Directed by": [
       "Alastair Fothergill",
@@ -16714,6 +17136,7 @@
     "Box office": "$21.3 million"
   },
   {
+    "URL": "/wiki/Million_Dollar_Arm",
     "title": "Million Dollar Arm",
     "Directed by": "Craig Gillespie",
     "Written by": "Tom McCarthy",
@@ -16757,6 +17180,7 @@
     "Box office": "$40.2 million"
   },
   {
+    "URL": "/wiki/Maleficent_(film)",
     "title": "Maleficent",
     "Directed by": "Robert Stromberg",
     "Screenplay by": "Linda Woolverton",
@@ -16796,6 +17220,7 @@
     "Box office": "$758.5 million"
   },
   {
+    "URL": "/wiki/Planes:_Fire_%26_Rescue",
     "title": "Planes: Fire & Rescue",
     "Directed by": "Bobs Gannaway",
     "Written by": [
@@ -16829,13 +17254,14 @@
       "July 15, 2014 ( El Capitan Theatre )",
       "July 18, 2014 (United States)"
     ],
-    "Running time": "84 minutes",
+    "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million",
-    "Box office": "$147 million"
+    "Budget": "$50 million",
+    "Box office": "$147 million"
   },
   {
+    "URL": "/wiki/Khoobsurat_(2014_film)",
     "title": "Khoobsurat",
     "Directed by": "Shashanka Ghosh",
     "Written by": [
@@ -16872,10 +17298,11 @@
     "Running time": "127 minutes",
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "(US$2.8 million)",
-    "Box office": "est. (US$9.5 million)"
+    "Budget": "(US$2.8 million)",
+    "Box office": "est. (US$9.5 million)"
   },
   {
+    "URL": "/wiki/Alexander_and_the_Terrible,_Horrible,_No_Good,_Very_Bad_Day_(film)",
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
     "Directed by": "Miguel Arteta",
     "Written by": "Rob Lieber",
@@ -16917,6 +17344,7 @@
     "Box office": "$100.6 million"
   },
   {
+    "URL": "/wiki/Big_Hero_6_(film)",
     "title": "Big Hero 6",
     "Directed by": [
       "Don Hall",
@@ -16964,10 +17392,11 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$165 million",
-    "Box office": "$657.8 million"
+    "Budget": "$165 million",
+    "Box office": "$657.8 million"
   },
   {
+    "URL": "/wiki/Into_the_Woods_(film)",
     "title": "Into the Woods",
     "Directed by": "Rob Marshall",
     "Screenplay by": "James Lapine",
@@ -17016,6 +17445,7 @@
     "Box office": "$213.1 million"
   },
   {
+    "URL": "/wiki/McFarland,_USA",
     "title": "McFarland, USA",
     "Directed by": "Niki Caro",
     "Screenplay by": [
@@ -17058,6 +17488,7 @@
     "Box office": "$45.7 million"
   },
   {
+    "URL": "/wiki/Tinker_Bell_and_the_Legend_of_the_NeverBeast",
     "title": "Tinker Bell and the Legend of the NeverBeast",
     "Directed by": "Steve Loter",
     "Screenplay by": [
@@ -17103,6 +17534,7 @@
     "Box office": "$31.2 million (non-US box office)"
   },
   {
+    "URL": "/wiki/Cinderella_(2015_American_film)",
     "title": "Cinderella",
     "Directed by": "Kenneth Branagh",
     "Screenplay by": "Chris Weitz",
@@ -17152,6 +17584,7 @@
     "Box office": "$542.4 million"
   },
   {
+    "URL": "/wiki/Monkey_Kingdom",
     "title": "Monkey Kingdom",
     "Directed by": [
       "Mark Linfield",
@@ -17183,6 +17616,7 @@
     "Box office": "$17.1 million"
   },
   {
+    "URL": "/wiki/Tomorrowland_(film)",
     "title": "Tomorrowland",
     "Directed by": "Brad Bird",
     "Screenplay by": [
@@ -17234,6 +17668,7 @@
     "Box office": "$209 million"
   },
   {
+    "URL": "/wiki/Inside_Out_(2015_film)",
     "title": "Inside Out",
     "Directed by": "Pete Docter",
     "Screenplay by": [
@@ -17279,6 +17714,7 @@
     "Box office": "$858.8 million"
   },
   {
+    "URL": "/wiki/ABCD_2",
     "title": "ABCD 2",
     "Directed by": "Remo D'Souza",
     "Written by": [
@@ -17315,6 +17751,7 @@
     "Box office": "est."
   },
   {
+    "URL": "/wiki/The_Good_Dinosaur",
     "title": "The Good Dinosaur",
     "Directed by": "Peter Sohn",
     "Screenplay by": "Meg LeFauve",
@@ -17365,6 +17802,7 @@
     "Box office": "$332.2 million"
   },
   {
+    "URL": "/wiki/The_Finest_Hours_(2016_film)",
     "title": "The Finest Hours",
     "Directed by": "Craig Gillespie",
     "Screenplay by": [
@@ -17414,6 +17852,7 @@
     "Box office": "$52.1 million"
   },
   {
+    "URL": "/wiki/Zootopia",
     "title": "Zootopia",
     "Directed by": [
       "Byron Howard",
@@ -17472,6 +17911,7 @@
     "Box office": "$1.025 billion"
   },
   {
+    "URL": "/wiki/The_Jungle_Book_(2016_film)",
     "title": "The Jungle Book",
     "Directed by": "Jon Favreau",
     "Screenplay by": "Justin Marks",
@@ -17516,6 +17956,7 @@
     "Box office": "$966.6 million"
   },
   {
+    "URL": "/wiki/Tini:_The_Movie",
     "title": "Tini: The Movie",
     "Directed by": "Juan Pablo Buscarini",
     "Written by": "Ramón Salazar",
@@ -17557,6 +17998,7 @@
     "Box office": "$17 million"
   },
   {
+    "URL": "/wiki/Alice_Through_the_Looking_Glass_(2016_film)",
     "title": "Alice Through the Looking Glass",
     "Directed by": "James Bobin",
     "Written by": "Linda Woolverton",
@@ -17607,6 +18049,7 @@
     "Box office": "$299.5 million"
   },
   {
+    "URL": "/wiki/Finding_Dory",
     "title": "Finding Dory",
     "Directed by": "Andrew Stanton",
     "Screenplay by": [
@@ -17647,6 +18090,7 @@
     "Box office": "$1.029 billion"
   },
   {
+    "URL": "/wiki/The_BFG_(2016_film)",
     "title": "The BFG",
     "Directed by": "Steven Spielberg",
     "Screenplay by": "Melissa Mathison",
@@ -17699,6 +18143,7 @@
     "Box office": "$195.2 million"
   },
   {
+    "URL": "/wiki/Pete%27s_Dragon_(2016_film)",
     "title": "Pete's Dragon",
     "Directed by": "David Lowery",
     "Screenplay by": [
@@ -17738,6 +18183,7 @@
     "Box office": "$143.7 million"
   },
   {
+    "URL": "/wiki/Queen_of_Katwe",
     "title": "Queen of Katwe",
     "Directed by": "Mira Nair",
     "Screenplay by": "William Wheeler",
@@ -17777,10 +18223,11 @@
       "English",
       "Luganda"
     ],
-    "Budget": "$15 million",
-    "Box office": "$10.4 million"
+    "Budget": "$15 million",
+    "Box office": "$10.4 million"
   },
   {
+    "URL": "/wiki/Moana_(2016_film)",
     "title": "Moana",
     "Directed by": [
       "John Musker",
@@ -17825,10 +18272,11 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$150–175 million",
+    "Budget": "$150–175 million",
     "Box office": "$687.2 million"
   },
   {
+    "URL": "/wiki/Dangal_(2016_film)",
     "title": "Dangal",
     "Directed by": "Nitesh Tiwari",
     "Written by": [
@@ -17877,6 +18325,7 @@
     "Box office": ""
   },
   {
+    "URL": "/wiki/March_of_the_Penguins#Sequel",
     "title": "March of the Penguins",
     "Directed by": "Luc Jacquet",
     "Written by": "Luc Jacquet",
@@ -17913,6 +18362,7 @@
     "Box office": "$127.4 million"
   },
   {
+    "URL": "/wiki/Beauty_and_the_Beast_(2017_film)",
     "title": "Beauty and the Beast",
     "Directed by": "Bill Condon",
     "Screenplay by": [
@@ -17963,6 +18413,7 @@
     "Box office": "$1.266 billion"
   },
   {
+    "URL": "/wiki/Born_in_China",
     "title": "Born in China",
     "Traditional Chinese": "",
     "Simplified Chinese": "",
@@ -18016,6 +18467,7 @@
     "Box office": "$25.1 million"
   },
   {
+    "URL": "/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "Directed by": [
       "Joachim Rønning",
@@ -18068,6 +18520,7 @@
     "Box office": "$795.9 million"
   },
   {
+    "URL": "/wiki/Cars_3",
     "title": "Cars 3",
     "Directed by": "Brian Fee",
     "Screenplay by": [
@@ -18115,6 +18568,7 @@
     "Box office": "$383.9 million"
   },
   {
+    "URL": "/wiki/Ghost_of_the_Mountains",
     "title": "Ghost of the Mountains",
     "Directed by": "Ben Wallis",
     "Written by": "Ben Wallis",
@@ -18133,6 +18587,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Jagga_Jasoos",
     "title": "Jagga Jasoos",
     "Directed by": "Anurag Basu",
     "Written by": [
@@ -18179,6 +18634,7 @@
     "Box office": "86.85 crore"
   },
   {
+    "URL": "/wiki/Last_Knight_(film)",
     "title": "The Last Knight",
     "Directed by": "Dmitriy Dyachenko",
     "Screenplay by": [
@@ -18236,6 +18692,7 @@
     ]
   },
   {
+    "URL": "/wiki/Coco_(2017_film)",
     "title": "Coco",
     "Directed by": "Lee Unkrich",
     "Screenplay by": [
@@ -18280,6 +18737,7 @@
     "Box office": "$814.3 million"
   },
   {
+    "URL": "/wiki/A_Wrinkle_in_Time_(2018_film)",
     "title": "A Wrinkle in Time",
     "Directed by": "Ava DuVernay",
     "Screenplay by": [
@@ -18327,6 +18785,7 @@
     "Box office": "$133.2 million"
   },
   {
+    "URL": "/wiki/Incredibles_2",
     "title": "Incredibles 2",
     "Directed by": "Brad Bird",
     "Written by": "Brad Bird",
@@ -18362,10 +18821,11 @@
     "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million",
-    "Box office": "$1.243 billion"
+    "Budget": "$200 million",
+    "Box office": "$1.243 billion"
   },
   {
+    "URL": "/wiki/Christopher_Robin_(film)",
     "title": "Christopher Robin",
     "Directed by": "Marc Forster",
     "Screenplay by": [
@@ -18416,6 +18876,7 @@
     "Box office": "$197.7 million"
   },
   {
+    "URL": "/wiki/The_Nutcracker_and_the_Four_Realms",
     "title": "The Nutcracker and the Four Realms",
     "Directed by": [
       "Lasse Hallström",
@@ -18459,6 +18920,7 @@
     "Box office": "$174 million"
   },
   {
+    "URL": "/wiki/Ralph_Breaks_the_Internet",
     "title": "Ralph Breaks the Internet",
     "Directed by": [
       "Rich Moore",
@@ -18509,6 +18971,7 @@
     "Box office": "$529.3 million"
   },
   {
+    "URL": "/wiki/Mary_Poppins_Returns",
     "title": "Mary Poppins Returns",
     "Directed by": "Rob Marshall",
     "Screenplay by": "David Magee",
@@ -18561,6 +19024,7 @@
     "Box office": "$349.5 million"
   },
   {
+    "URL": "/wiki/Dumbo_(2019_film)",
     "title": "Dumbo",
     "Directed by": "Tim Burton",
     "Screenplay by": "Ehren Kruger",
@@ -18605,6 +19069,7 @@
     "Box office": "$353.3 million"
   },
   {
+    "URL": "/wiki/Penguins_(film)",
     "title": "Penguins",
     "Directed by": [
       "Alastair Fothergill",
@@ -18639,6 +19104,7 @@
     "Box office": "$7.7 million"
   },
   {
+    "URL": "/wiki/Aladdin_(2019_film)",
     "title": "Aladdin",
     "Directed by": "Guy Ritchie",
     "Screenplay by": [
@@ -18684,10 +19150,11 @@
     "Running time": "128 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$183 million",
+    "Budget": "$183 million",
     "Box office": ""
   },
   {
+    "URL": "/wiki/Toy_Story_4",
     "title": "Toy Story 4",
     "Directed by": "Josh Cooley",
     "Screenplay by": [
@@ -18742,9 +19209,10 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$1.102 billion"
+    "Box office": "$1.074 billion"
   },
   {
+    "URL": "/wiki/The_Lion_King_(2019_film)",
     "title": "The Lion King",
     "Directed by": "Jon Favreau",
     "Screenplay by": "Jeff Nathanson",
@@ -18790,10 +19258,11 @@
     "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$250–260 million",
-    "Box office": "$1.657 billion"
+    "Budget": "$250–260 million",
+    "Box office": "$1.657 billion"
   },
   {
+    "URL": "/wiki/Maleficent:_Mistress_of_Evil",
     "title": "Maleficent: Mistress of Evil",
     "Directed by": "Joachim Rønning",
     "Written by": [
@@ -18844,6 +19313,7 @@
     "Box office": "$492.2 million"
   },
   {
+    "URL": "/wiki/Lady_and_the_Tramp_(2019_film)",
     "title": "Lady and the Tramp",
     "Directed by": "Charlie Bean",
     "Screenplay by": [
@@ -18891,6 +19361,7 @@
     "Budget": "$60 million"
   },
   {
+    "URL": "/wiki/Noelle_(2019_film)",
     "title": "Noelle",
     "Directed by": "Marc Lawrence",
     "Written by": "Marc Lawrence",
@@ -18919,6 +19390,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Frozen_II",
     "title": "Frozen 2",
     "Directed by": [
       "Chris Buck",
@@ -18963,6 +19435,7 @@
     "Box office": "$1.453 billion"
   },
   {
+    "URL": "/wiki/Togo_(film)",
     "title": "Togo",
     "Directed by": "Ericson Core",
     "Written by": "Tom Flynn",
@@ -18987,6 +19460,7 @@
     "Budget": "$40 million"
   },
   {
+    "URL": "/wiki/Timmy_Failure:_Mistakes_Were_Made",
     "title": "Timmy Failure: Mistakes Were Made",
     "Directed by": "Tom McCarthy",
     "Screenplay by": [
@@ -19029,6 +19503,7 @@
     "Budget": "$42 million"
   },
   {
+    "URL": "/wiki/Onward_(film)",
     "title": "Onward",
     "Directed by": "Dan Scanlon",
     "Screenplay by": [
@@ -19073,6 +19548,7 @@
     "Box office": "$142 million"
   },
   {
+    "URL": "/wiki/Stargirl_(film)",
     "title": "Stargirl",
     "Directed by": "Julia Hart",
     "Screenplay by": [
@@ -19115,6 +19591,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Dolphin_Reef_(film)",
     "title": "Dolphin Reef",
     "Directed by": [
       "Alastair Fothergill",
@@ -19144,6 +19621,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Elephant_(2020_film)",
     "title": "Elephant",
     "Directed by": [
       "Mark Linfield",
@@ -19172,6 +19650,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Artemis_Fowl_(film)",
     "title": "Artemis Fowl",
     "Directed by": "Kenneth Branagh",
     "Screenplay by": [
@@ -19207,9 +19686,10 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$125 million"
+    "Budget": "$125 million"
   },
   {
+    "URL": "/wiki/Hamilton_(2020_film)",
     "title": "Hamilton",
     "Directed by": "Thomas Kail",
     "Written by": "Lin-Manuel Miranda",
@@ -19255,6 +19735,7 @@
     "Budget": "$12.5 million (stage production)"
   },
   {
+    "URL": "/wiki/Black_Is_King",
     "title": "Black Is King",
     "Directed by": [
       "Beyoncé",
@@ -19347,6 +19828,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Magic_Camp_(film)",
     "title": "Magic Camp",
     "Directed by": "Mark Waters",
     "Screenplay by": [
@@ -19391,6 +19873,7 @@
     "Budget": "$24 million"
   },
   {
+    "URL": "/wiki/The_One_and_Only_Ivan_(film)",
     "title": "The One and Only Ivan",
     "Directed by": "Thea Sharrock",
     "Screenplay by": "Mike White",
@@ -19434,6 +19917,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Mulan_(2020_film)",
     "title": "Mulan",
     "Directed by": "Niki Caro",
     "Screenplay by": [
@@ -19484,6 +19968,7 @@
     "Box office": "$69.9 million"
   },
   {
+    "URL": "/wiki/Godmothered",
     "title": "Godmothered",
     "Directed by": "Sharon Maguire",
     "Screenplay by": [
@@ -19520,6 +20005,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Safety_(2020_film)",
     "title": "Safety",
     "Directed by": "Reginald Hudlin",
     "Written by": "Nick Santora",
@@ -19553,6 +20039,7 @@
     "Budget": "$26 million"
   },
   {
+    "URL": "/wiki/Soul_(2020_film)",
     "title": "Soul",
     "Directed by": "Pete Docter",
     "Written by": [
@@ -19601,6 +20088,7 @@
     "Box office": "$122.2 million"
   },
   {
+    "URL": "/wiki/The_Last_Warrior:_Root_of_Evil",
     "title": "The Last Warrior: Root of Evil",
     "Directed by": "Dmitriy Dyachenko",
     "Written by": [
@@ -19661,6 +20149,7 @@
     ]
   },
   {
+    "URL": "/wiki/Flora_%26_Ulysses_(film)",
     "title": "Flora & Ulysses",
     "Directed by": "Lena Khan",
     "Screenplay by": "Brad Copeland",
@@ -19696,6 +20185,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Raya_and_the_Last_Dragon",
     "title": "Raya and the Last Dragon",
     "Directed by": [
       "Don Hall",
@@ -19761,6 +20251,7 @@
     "Box office": "$130.4 million"
   },
   {
+    "URL": "/wiki/Cruella_(film)",
     "title": "Cruella",
     "Directed by": "Craig Gillespie",
     "Screenplay by": [
@@ -19811,6 +20302,7 @@
     "Box office": "$233.5  million"
   },
   {
+    "URL": "/wiki/Luca_(2021_film)",
     "title": "Luca",
     "Directed by": "Enrico Casarosa",
     "Screenplay by": [
@@ -19858,6 +20350,7 @@
     "Box office": "$51.1 million"
   },
   {
+    "URL": "/wiki/Jungle_Cruise_(film)",
     "title": "Jungle Cruise",
     "Directed by": "Jaume Collet-Serra",
     "Screenplay by": [
@@ -19909,6 +20402,7 @@
     "Box office": "$220.9 million"
   },
   {
+    "URL": "/wiki/Encanto",
     "title": "Encanto",
     "Directed by": [
       "Jared Bush",
@@ -19963,10 +20457,11 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120–150 million",
-    "Box office": "$256.8 million"
+    "Budget": "$120–150 million",
+    "Box office": "$256.8 million"
   },
   {
+    "URL": "/wiki/Diary_of_a_Wimpy_Kid_(2021_film)",
     "title": "Diary of a Wimpy Kid",
     "Directed by": "Swinton Scott",
     "Screenplay by": "Jeff Kinney",
@@ -20000,6 +20495,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Last_Warrior:_A_Messenger_of_Darkness",
     "title": "The Last Warrior: Emissary of Darkness",
     "Directed by": "Dmitry Dyachenko",
     "Written by": [
@@ -20057,6 +20553,7 @@
     ]
   },
   {
+    "URL": "/wiki/The_Ice_Age_Adventures_of_Buck_Wild",
     "title": "The Ice Age Adventures of Buck Wild",
     "Directed by": "John C. Donkin",
     "Screenplay by": [
@@ -20100,7 +20597,9 @@
     ],
     "Language": "English"
   },
+  {},
   {
+    "URL": "/wiki/Turning_Red",
     "title": "Turning Red",
     "Directed by": "Domee Shi",
     "Screenplay by": [
@@ -20157,6 +20656,7 @@
     "Box office": "$21.5 million"
   },
   {
+    "URL": "/wiki/Cheaper_by_the_Dozen_(2022_film)",
     "title": "Cheaper by the Dozen",
     "Directed by": "Gail Lerner",
     "Screenplay by": [
@@ -20196,6 +20696,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Better_Nate_Than_Ever_(film)",
     "title": "Better Nate Than Ever",
     "Directed by": "Tim Federle",
     "Written by": "Tim Federle",
@@ -20233,6 +20734,7 @@
     "Budget": "$36 million"
   },
   {
+    "URL": "/wiki/Polar_Bear_(film)",
     "title": "Polar Bear",
     "Directed by": [
       "Alastair Fothergill",
@@ -20265,6 +20767,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Chip_%27n_Dale:_Rescue_Rangers_(film)",
     "title": "Chip 'n Dale: Rescue Rangers",
     "Directed by": "Akiva Schaffer",
     "Written by": "Dan Gregor & Doug Mand",
@@ -20289,10 +20792,11 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "~$70 million",
+    "Budget": "~$70 million",
     "Box office": "$623,190"
   },
   {
+    "URL": "/wiki/Hollywood_Stargirl",
     "title": "Hollywood Stargirl",
     "Directed by": "Julia Hart",
     "Written by": [
@@ -20341,6 +20845,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Lightyear_(film)",
     "title": "Lightyear",
     "Directed by": "Angus MacLane",
     "Screenplay by": [
@@ -20384,6 +20889,7 @@
     "Box office": "$226.4 million"
   },
   {
+    "URL": "/wiki/Rise_(2022_film)",
     "title": "Rise",
     "Directed by": "Akin Omotoso",
     "Written by": "Arash Amel",
@@ -20418,6 +20924,7 @@
     ]
   },
   {
+    "URL": "/wiki/Pinocchio_(2022_live-action_film)",
     "title": "Pinocchio",
     "Directed by": "Robert Zemeckis",
     "Screenplay by": [
@@ -20468,6 +20975,7 @@
     "Budget": "$150 million"
   },
   {
+    "URL": "/wiki/Hocus_Pocus_2",
     "title": "Hocus Pocus 2",
     "Directed by": "Anne Fletcher",
     "Screenplay by": "Jen D'Angelo",
@@ -20505,6 +21013,7 @@
     "Budget": "$40 million"
   },
   {
+    "URL": "/wiki/Disenchanted_(film)",
     "title": "Disenchanted",
     "Directed by": "Adam Shankman",
     "Screenplay by": "Brigitte Hales",
@@ -20557,6 +21066,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Strange_World_(film)",
     "title": "Strange World",
     "Directed by": "Don Hall",
     "Written by": "Qui Nguyen",
@@ -20590,6 +21100,7 @@
     "Box office": "$73.6 million"
   },
   {
+    "URL": "/wiki/Diary_of_a_Wimpy_Kid:_Rodrick_Rules_(2022_film)",
     "title": "Diary of a Wimpy Kid: Rodrick Rules",
     "Directed by": "Luke Cormican",
     "Screenplay by": "Jeff Kinney",
@@ -20627,6 +21138,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Night_at_the_Museum:_Kahmunrah_Rises_Again",
     "title": "Night at the Museum: Kahmunrah Rises Again",
     "Directed by": "Matt Danner",
     "Written by": [
@@ -20677,6 +21189,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Chang_Can_Dunk",
     "title": "Chang Can Dunk",
     "Directed by": "Jingyi Shao",
     "Written by": "Jingyi Shao",
@@ -20715,6 +21228,7 @@
     ]
   },
   {
+    "URL": "/wiki/Peter_Pan_%26_Wendy",
     "title": "Peter Pan & Wendy",
     "Directed by": "David Lowery",
     "Screenplay by": [
@@ -20754,6 +21268,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Crater_(film)",
     "title": "Crater",
     "Directed by": "Kyle Patrick Alvarez",
     "Written by": "John Griffin",
@@ -20789,6 +21304,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Little_Mermaid_(2023_film)",
     "title": "The Little Mermaid",
     "Directed by": "Rob Marshall",
     "Screenplay by": "David Magee",
@@ -20831,10 +21347,11 @@
     "Running time": "135 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$240.2 million",
-    "Box office": "$569.6 million"
+    "Budget": "$240.2 million",
+    "Box office": "$569.6 million"
   },
   {
+    "URL": "/wiki/Elemental_(2023_film)",
     "title": "Elemental",
     "Directed by": "Peter Sohn",
     "Screenplay by": [
@@ -20878,6 +21395,7 @@
     "Box office": "$496.4 million"
   },
   {
+    "URL": "/wiki/World%27s_Best_(film)",
     "title": "World's Best",
     "Directed by": "Roshan Sethi",
     "Written by": [
@@ -20910,6 +21428,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Indiana_Jones_and_the_Dial_of_Destiny",
     "title": "Indiana Jones and the Dial of Destiny",
     "Directed by": "James Mangold",
     "Written by": [
@@ -20960,9 +21479,10 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$295–387 million",
-    "Box office": "$384 million"
+    "Box office": "$384 million"
   },
   {
+    "URL": "/wiki/Haunted_Mansion_(2023_film)",
     "title": "Haunted Mansion",
     "Directed by": "Justin Simien",
     "Screenplay by": "Katie Dippold",
@@ -21004,6 +21524,7 @@
     "Box office": "$117.5 million"
   },
   {
+    "URL": "/wiki/Dashing_Through_the_Snow",
     "title": "Dashing Through the Snow",
     "Directed by": "Tim Story",
     "Written by": "Scott Rosenberg",
@@ -21039,6 +21560,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Wish_(film)",
     "title": "Wish",
     "Directed by": [
       "Chris Buck",
@@ -21096,6 +21618,7 @@
     "Box office": "$255 million"
   },
   {
+    "URL": "/wiki/Diary_of_a_Wimpy_Kid_Christmas:_Cabin_Fever",
     "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
     "Directed by": "Luke Cormican",
     "Screenplay by": "Jeff Kinney",
@@ -21128,6 +21651,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Tiger_(2024_film)",
     "title": "Tiger",
     "Directed by": [
       "Mark Linfield",
@@ -21158,6 +21682,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Beach_Boys_(film)",
     "title": "The Beach Boys",
     "Directed by": [
       "Frank Marshall",
@@ -21204,6 +21729,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Young_Woman_and_the_Sea",
     "title": "Young Woman and the Sea",
     "Directed by": "Joachim Rønning",
     "Written by": "Jeff Nathanson",
@@ -21244,6 +21770,7 @@
     "Box office": "$1.4 million"
   },
   {
+    "URL": "/wiki/Inside_Out_2",
     "title": "Inside Out 2",
     "Directed by": "Kelsey Mann",
     "Screenplay by": [
@@ -21290,10 +21817,11 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million",
-    "Box office": "$1.693 billion"
+    "Budget": "$200 million",
+    "Box office": "$1.693 billion"
   },
   {
+    "URL": "/wiki/Blink_(2024_American_film)",
     "title": "Blink",
     "Directed by": [
       "Edmund Stenson",
@@ -21329,6 +21857,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Moana_2",
     "title": "Moana 2",
     "Directed by": [
       "David Derrick Jr.",
@@ -21375,6 +21904,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Mufasa:_The_Lion_King",
     "title": "Mufasa: The Lion King",
     "Directed by": "Barry Jenkins",
     "Screenplay by": "Jeff Nathanson",
@@ -21424,6 +21954,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Snow_White_(2025_film)",
     "title": "Snow White",
     "Directed by": "Marc Webb",
     "Screenplay by": [
@@ -21470,9 +22001,10 @@
     ],
     "Country": "United States",
     "Language": "English",
-    "Budget": "$209 million"
+    "Budget": "$209 million"
   },
   {
+    "URL": "/wiki/Elio_(film)",
     "title": "Elio",
     "Directed by": [
       "Domee Shi",
@@ -21498,6 +22030,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Tron:_Ares",
     "title": "Tron: Ares",
     "Directed by": "Joachim Rønning",
     "Screenplay by": [
@@ -21543,6 +22076,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Zootopia_2",
     "title": "Zootopia 2",
     "Directed by": [
       "Jared Bush",
@@ -21567,7 +22101,9 @@
     "Country": "United States",
     "Language": "English"
   },
+  {},
   {
+    "URL": "/wiki/Moana_(2026_film)",
     "title": "Moana",
     "Screenplay by": [
       "Jared Bush",
@@ -21610,6 +22146,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/Freakier_Friday",
     "title": "Freakier Friday",
     "Directed by": "Nisha Ganatra",
     "Screenplay by": "Jordan Weiss",
@@ -21643,12 +22180,13 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "2025"
+      "August 8, 2025 (United States)"
     ],
     "Country": "United States",
     "Language": "English"
   },
   {
+    "URL": "/wiki/Lilo_%26_Stitch_(2025_film)",
     "title": "Lilo & Stitch",
     "Directed by": "Dean Fleischer Camp",
     "Written by": "Chris Kekaniokalani Bright",
@@ -21679,12 +22217,13 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "2025"
+      "May 23, 2025"
     ],
     "Country": "United States",
     "Language": "English"
   },
   {
+    "URL": "/wiki/Alexander_and_the_Terrible,_Horrible,_No_Good,_Very_Bad_Road_Trip",
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
     "Screenplay by": "Matt Lopez",
     "Based on": [
@@ -21714,6 +22253,7 @@
     "Language": "English"
   },
   {
+    "URL": "/wiki/The_Princess_Diaries_(film)",
     "title": "The Princess Diaries",
     "Directed by": "Garry Marshall",
     "Screenplay by": "Gina Wendkos",
@@ -21755,6 +22295,7 @@
     "Box office": "$165.3 million"
   },
   {
+    "URL": "/wiki/Bambi#Computer-animated_remake",
     "title": "Bambi",
     "Directed by": [
       "James Algar",
@@ -21795,7 +22336,9 @@
     "Budget": "$858,000",
     "Box office": "$267.4 million"
   },
+  {},
   {
+    "URL": "/wiki/Hercules_(1997_film)#Live-action_remake",
     "title": "Hercules",
     "Directed by": [
       "John Musker",
@@ -21844,10 +22387,11 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million",
-    "Box office": "$252.7 million"
+    "Budget": "$85 million",
+    "Box office": "$252.7 million"
   },
   {
+    "URL": "/wiki/The_Hunchback_of_Notre_Dame_(1996_film)#Live-action_remake",
     "title": "The Hunchback of Notre Dame",
     "Directed by": [
       "Gary Trousdale",
@@ -21889,10 +22433,14 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$70 million",
-    "Box office": "$325.3 million"
+    "Budget": "$70 million",
+    "Box office": "$325.3 million"
   },
+  {},
+  {},
+  {},
   {
+    "URL": "/wiki/The_Aristocats#Live-action_adaptation",
     "title": "The Aristocats",
     "Directed by": "Wolfgang Reitherman",
     "Story by": [
@@ -21947,7 +22495,9 @@
     "Budget": "$4 million",
     "Box office": "$191 million"
   },
+  {},
   {
+    "URL": "/wiki/The_Rocketeer_(film)#Sequel",
     "title": "The Rocketeer",
     "Directed by": "Joe Johnston",
     "Screenplay by": [
@@ -21999,6 +22549,7 @@
     "Box office": "$46.7 million (U.S.)"
   },
   {
+    "URL": "/wiki/Tinker_Bell_(film_series)#Live-action_film",
     "title": "Tinker Bell",
     "Directed by": [
       "Bradley Raymond (1 & 3)",
@@ -22037,5 +22588,7 @@
     ],
     "Country": "United States",
     "Language": "English"
-  }
+  },
+  {},
+  {}
 ]
