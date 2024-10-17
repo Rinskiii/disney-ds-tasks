@@ -1,0 +1,68 @@
+Processing movie 0: Snow White and the Seven Dwarfs
+Processing movie 10: Song of the South
+Processing movie 20: The Sword and the Rose
+Processing movie 30: Davy Crockett and the River Pirates
+Processing movie 40: The Shaggy Dog
+Processing movie 50: One Hundred and One Dalmatians
+Processing movie 60: The Legend of Lobo
+Processing movie 70: The Three Lives of Thomasina
+Processing movie 80: Follow Me, Boys!
+Processing movie 90: The Horse in the Gray Flannel Suit
+Processing movie 100: Scandalous John
+Processing movie 110: One Little Indian
+Processing movie 120: One of Our Dinosaurs Is Missing
+Processing movie 130: The Many Adventures of Winnie the Pooh
+Processing movie 140: Unidentified Flying Oddball
+Processing movie 150: The Fox and the Hound
+Processing movie 160: The Journey of Natty Gann
+Processing movie 170: The Little Mermaid
+Processing movie 180: The Mighty Ducks
+Processing movie 190: Blank Check
+Processing movie 200: Heavyweights
+Processing movie 210: Tom and Huck
+Processing movie 220: Jungle 2 Jungle
+Processing movie 230: Mr. Magoo
+Processing movie 240: Mighty Joe Young
+Processing movie 250: Fantasia 2000
+Processing movie 260: The Emperor's New Groove
+Processing movie 270: Cinderella II: Dreams Come True
+Error processing movie Spirited Away: 'NoneType' object has no attribute 'find'
+Processing movie 280: Treasure Planet
+Processing movie 290: Pirates of the Caribbean: The Curse of the Black Pearl
+Processing movie 300: Confessions of a Teenage Drama Queen
+Processing movie 310: National Treasure
+Error processing movie Howl's Moving Castle: 'NoneType' object has no attribute 'find'
+Processing movie 320: Valiant
+Processing movie 330: Eight Below
+Processing movie 340: The Fox and the Hound 2
+Processing movie 350: Enchanted
+Processing movie 360: Roadside Romeo
+Processing movie 370: Lilly the Witch: The Dragon and the Magic Book
+Error processing movie Ponyo: 'NoneType' object has no attribute 'find'
+Processing movie 380: Waking Sleeping Beauty
+Error processing movie Tales from Earthsea: 'NoneType' object has no attribute 'find'
+Processing movie 390: Do Dooni Chaar
+Processing movie 400: Pirates of the Caribbean: On Stranger Tides
+Error processing movie The Secret World of Arrietty: 'NoneType' object has no attribute 'find'
+Processing movie 410: Brave
+Processing movie 420: Planes
+Processing movie 430: Khoobsurat
+Processing movie 440: ABCD 2
+Processing movie 450: Queen of Katwe
+Processing movie 460: The Last Warrior
+Processing movie 470: Aladdin
+Processing movie 480: Stargirl
+Processing movie 490: Safety
+Processing movie 500: The Last Warrior: A Messenger of Darkness
+Processing movie 510: Rise
+Processing movie 520: The Little Mermaid
+Processing movie 530: Young Woman and the Sea
+Processing movie 540: Zootopia 2
+Error processing movie Toy Story 5: 'NoneType' object has no attribute 'find'
+Error processing movie Incredibles 3: 'NoneType' object has no attribute 'find'
+Processing movie 550: Hunchback
+Error processing movie Shrunk: 'NoneType' object has no attribute 'find'
+Processing movie 560: Figment
+Encountered 'Upcoming', stopping movie processing.
+Execution time: 486.6939945220947 seconds
+Processed 553 movies.

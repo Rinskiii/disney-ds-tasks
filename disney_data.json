@@ -1638,8 +1638,8 @@
     "title": "Sleeping Beauty",
     "Directed by": [
       "Clyde Geronimi",
-      "Wolfgang Reitherman",
       "Eric Larson",
+      "Wolfgang Reitherman",
       "Les Clark"
     ],
     "Story by": [
@@ -13440,6 +13440,7 @@
       "Denise Di Novi"
     ],
     "Starring": [
+      "Danny Elfman",
       "Chris Sarandon",
       "Catherine O'Hara",
       "William Hickey",
@@ -13464,7 +13465,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million",
-    "Box office": "$101 million"
+    "Box office": "$104.9 million"
   },
   {
     "URL": "/wiki/The_Santa_Clause_3:_The_Escape_Clause",
@@ -16210,7 +16211,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million",
-    "Box office": "$325.2 million"
+    "Box office": "$165.2 million"
   },
   {
     "URL": "/wiki/Treasure_Buddies",
@@ -17057,7 +17058,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
-    "Box office": "$288.4 million"
+    "Box office": "$80.4 million"
   },
   {
     "URL": "/wiki/The_Pirate_Fairy",
@@ -21767,7 +21768,7 @@
     "Running time": "129 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.4 million"
+    "Box office": "$1,931,585"
   },
   {
     "URL": "/wiki/Inside_Out_2",
@@ -21818,7 +21819,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million",
-    "Box office": "$1.693 billion"
+    "Box office": "$1.694 billion"
   },
   {
     "URL": "/wiki/Blink_(2024_American_film)",
@@ -22004,6 +22005,43 @@
     "Budget": "$209 million"
   },
   {
+    "URL": "/wiki/Lilo_%26_Stitch_(2025_film)",
+    "title": "Lilo & Stitch",
+    "Directed by": "Dean Fleischer Camp",
+    "Written by": "Chris Kekaniokalani Bright",
+    "Based on": [
+      "Chris Sanders",
+      "Dean DeBlois"
+    ],
+    "Produced by": [
+      "Dan Lin",
+      "Jonathan Eirich"
+    ],
+    "Starring": [
+      "Chris Sanders",
+      "Maia Kealoha",
+      "Sydney Agudong",
+      "Zach Galifianakis",
+      "Billy Magnussen",
+      "Tia Carrere",
+      "Courtney B. Vance"
+    ],
+    "Cinematography": "Nigel Bluck",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Rideback"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release date": [
+      "May 23, 2025"
+    ],
+    "Country": "United States",
+    "Language": "English"
+  },
+  {
     "URL": "/wiki/Elio_(film)",
     "title": "Elio",
     "Directed by": [
@@ -22025,6 +22063,46 @@
     ],
     "Release date": [
       "June 13, 2025"
+    ],
+    "Country": "United States",
+    "Language": "English"
+  },
+  {
+    "URL": "/wiki/Freakier_Friday",
+    "title": "Freakier Friday",
+    "Directed by": "Nisha Ganatra",
+    "Screenplay by": "Jordan Weiss",
+    "Based on": [
+      "Mary Rodgers",
+      "Characters created by",
+      "Heather Hach",
+      "Leslie Dixon"
+    ],
+    "Produced by": [
+      "Kristin Burr",
+      "Jamie Lee Curtis",
+      "Andrew Gunn"
+    ],
+    "Starring": [
+      "Jamie Lee Curtis",
+      "Lindsay Lohan",
+      "Julia Butters",
+      "Sophia Hammons",
+      "Mark Harmon",
+      "Chad Michael Murray",
+      "Christina Vidal Mitchell",
+      "Haley Hudson",
+      "Lucille Soong",
+      "Rosalind Chao"
+    ],
+    "Cinematography": "Matthew Clark",
+    "Production company": "Walt Disney Pictures",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release date": [
+      "August 8, 2025"
     ],
     "Country": "United States",
     "Language": "English"
@@ -22141,83 +22219,6 @@
     ],
     "Release date": [
       "July 10, 2026"
-    ],
-    "Country": "United States",
-    "Language": "English"
-  },
-  {
-    "URL": "/wiki/Freakier_Friday",
-    "title": "Freakier Friday",
-    "Directed by": "Nisha Ganatra",
-    "Screenplay by": "Jordan Weiss",
-    "Based on": [
-      "Mary Rodgers",
-      "Characters created by",
-      "Heather Hach",
-      "Leslie Dixon"
-    ],
-    "Produced by": [
-      "Kristin Burr",
-      "Jamie Lee Curtis",
-      "Andrew Gunn"
-    ],
-    "Starring": [
-      "Jamie Lee Curtis",
-      "Lindsay Lohan",
-      "Julia Butters",
-      "Sophia Hammons",
-      "Mark Harmon",
-      "Chad Michael Murray",
-      "Christina Vidal Mitchell",
-      "Haley Hudson",
-      "Lucille Soong",
-      "Rosalind Chao"
-    ],
-    "Cinematography": "Matthew Clark",
-    "Production company": "Walt Disney Pictures",
-    "Distributed by": [
-      "Walt Disney Studios",
-      "Motion Pictures"
-    ],
-    "Release date": [
-      "August 8, 2025 (United States)"
-    ],
-    "Country": "United States",
-    "Language": "English"
-  },
-  {
-    "URL": "/wiki/Lilo_%26_Stitch_(2025_film)",
-    "title": "Lilo & Stitch",
-    "Directed by": "Dean Fleischer Camp",
-    "Written by": "Chris Kekaniokalani Bright",
-    "Based on": [
-      "Chris Sanders",
-      "Dean DeBlois"
-    ],
-    "Produced by": [
-      "Dan Lin",
-      "Jonathan Eirich"
-    ],
-    "Starring": [
-      "Chris Sanders",
-      "Maia Kealoha",
-      "Sydney Agudong",
-      "Zach Galifianakis",
-      "Billy Magnussen",
-      "Tia Carrere",
-      "Courtney B. Vance"
-    ],
-    "Cinematography": "Nigel Bluck",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Rideback"
-    ],
-    "Distributed by": [
-      "Walt Disney Studios",
-      "Motion Pictures"
-    ],
-    "Release date": [
-      "May 23, 2025"
     ],
     "Country": "United States",
     "Language": "English"
